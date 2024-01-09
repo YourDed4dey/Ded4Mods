@@ -1,0 +1,1251 @@
+Mods: {
+	RuinMod: {
+		Config: {
+			SpritesHeader: Sprites
+
+			RuinModDevaSpritesToggle: {
+				Label: Devastated Sprites Toggle
+				Tooltip: Enables or disables the Sprites for Devastated difficulty.
+			}
+		}
+
+		Keybinds.SpecialAbility.DisplayName: Special Ability
+
+		ItemName: {
+			LostFragment: Lost Fragment
+			LostFragmentOre: Lost Fragment Ore
+			AbandonedAxe: Abandoned Axe
+			AbandonedPickaxe: Abandoned Pickaxe
+			DragonHelmet: Dragon Helmet
+			DragonChestplate: Dragon Chestplate
+			DragonLeggings: Dragon Leggings
+			KratosHead: Kratos Head
+			KratosBody: Kratos Body
+			KratosLegs: Kratos Legs
+			SansHead: Sans Head
+			SansBody: Sans Body
+			SansLegs: Sans Legs
+			FrozenTurtleHelmet: Frozen Turtle Helmet
+			FrozenTurtleMail: Frozen Turtle Mail
+			FrozenTurtleLeggings: Frozen Turtle Leggings
+			TrueShadowHelmet: True Shadow Helmet
+			TrueShadowChestplate: True Shadow Scalemail
+			TrueShadowLeggings: True Shadow Greaves
+			TitanHelmet: Titan Helmet
+			TitanMail: Titan Mail
+			TitanLeggings: Titan Leggings
+			RickSanchezHead: Rick Sanchez Head
+			RickSanchezBody: Rick Sanchez Body
+			RickSanchezLegs: Rick Sanchez Legs
+			EdgeHelmet: Edge Helmet
+			EdgeChestplate: Edge Chestplate
+			EdgeLeggings: Edge Leggings
+			SpectralHeadgear: Spectral Headgear
+			SpectralArmor: Spectral Armor
+			SpectralSubligar: Spectral Subligar
+			AmberHood: Amber Hood
+			AmberRobe: Amber Robe
+			EmeraldHood: Emerald Hood
+			EmeraldRobe: Emerald Robe
+			MarioHead: Mario Head
+			MarioBody: Mario Body
+			MarioLegs: Mario Legs
+			SonicHead: Sonic Head
+			SonicBody: Sonic Body
+			SonicLegs: Sonic Legs
+			AmogusHead: Amogus Head
+			AmogusBody: Amogus Body
+			AmogusPants: Amogus Pants
+			LihzahrdHelmet: Lihzahrd Helmet
+			LihzahrdChestplate: Lihzahrd Chestplate
+			LihzahrdLeggings: Lihzahrd Leggings
+			OrbOfPain: Orb of Pain
+			GamingEmblem: Gaming Emblem
+			ReinforcedGem: Reinforced Gem
+			DiamondHelmet: Diamond Helmet
+			DiamondChestplate: Diamond Chestplate
+			DiamondLeggings: Diamond Leggings
+			RubyHelmet: Ruby Helmet
+			RubyChestplate: Ruby Chestplate
+			RubyLeggings: Ruby Leggings
+			AmethystHelmet: Amethyst Helmet
+			AmethystChestplate: Amethyst Chestplate
+			AmethystLeggings: Amethyst Leggings
+			SapphireHelmet: Sapphire Helmet
+			SapphireChestplate: Sapphire Chestplate
+			SapphireLeggings: Sapphire Leggings
+			TopazHelmet: Topaz Helmet
+			TopazChestplate: Topaz Chestplate
+			TopazLeggings: Topaz Leggings
+			DummyMask: Dummy Mask
+			MechanicalBrainMask: Mechanical Brain Mask
+			YaquisButterfly: Yaqui's Butterfly
+			YaquisBlueButterfly: Yaqui's Blue Butterfly
+			YaquisGreenButterfly: Yaqui's Green Butterfly
+			YaquisOrangeButterfly: Yaqui's Orange Butterfly
+			YaquisPurpleButterfly: Yaqui's Purple Butterfly
+			YaquisRedButterfly: Yaqui's Red Butterfly
+			YaquisYellowButterfly: Yaqui's Yellow Butterfly
+			MechanicalHook: Mechanical Hook
+			StarHook: Star Hook
+			EyeSpeculum: Eye Speculum
+			Quesadilla: Quesadilla
+			SoulPotion: Soul Potion
+			SuspiciousLookingSkull: Suspicious Looking Skull
+			DarkEssence: Dark Essence
+			EssenceOfDeath: Essence of Death
+			SoulOfBlight: Soul of Blight
+			LostFragmentHandle: Lost Fragment Handle
+			MechBrainBossBag: Treasure Bag (Mechanical Brain)
+			ConverterCraftingStation: Converter
+			MechanicalBrainRelic: Mechanical Brain Relic
+			MechanicalBrainTrophy: Mechanical Brain Trophy
+			Yaquiturimisha: Yaquiturimisha
+			BarkBarkChain: Woof-Woof-Bark-Bark
+			DirtyBrotherKiller: Dirty Brother Killer
+			AbandonedScythe: Abandoned Scythe
+			Lumpitishious: Lumpitishious
+			StarIndignation: Star Indignation
+			RaygunMKII: Raygun MK II
+			ThePortalGun: The Portal Gun
+			StarButcherer: Star Butcherer
+			Raygun: Raygun
+			HammerheadMorty: Hammerhead Morty
+			AmberSword: Amber Sword
+			AmethystSword: Amethyst Sword
+			DiamondSword: Diamond Sword
+			EmeraldSword: Emerald Sword
+			RubySword: Ruby Sword
+			SapphireSword: Sapphire Sword
+			VortexTriCannon: Vortex TriCannon
+			Dukezooka: Duke zooka
+			SammyTheBow: Sammy The Bow
+			PrimalSkullForce: Primal Skull Force
+			AmethystPistol: Amethyst Pistol
+			SapphireBow: Sapphire Bow
+			StarsScreams: Star's Screams
+			BookOfBreath: Book of Breath
+			AmberSpellBook: Amber Spell Book
+			EmeraldSpellBook: Emerald Spell Book
+			ProbeWhip: Probe Whip
+		}
+
+		ItemToolTip: {
+			DragonHelmet:
+				'''
+				15% increased melee speed and damage
+				15% increased critical strike chance
+				'''
+			DragonChestplate:
+				'''
+				10% increased critical strike chance
+				5% increased melee damage
+				'''
+			DragonLeggings:
+				'''
+				12% increased movement speed
+				2% increased melee speed
+				'''
+			KratosHead: 15% increased gamer damage
+			KratosBody: 15% increased gamer damage
+			KratosLegs:
+				'''
+				15% increased gamer damage
+				50% increased movement speed
+				'''
+			SansHead: 15% increased gamer damage and critical strike chance
+			SansBody:
+				'''
+				13% increased gamer damage and critical strike chance
+				20% increased movement speed
+				'''
+			SansLegs:
+				'''
+				7% increased gamer damage and critical strike chance
+				15% increased movement speed
+				'''
+			FrozenTurtleHelmet:
+				'''
+				5% increased whip range multiplier
+				15% increased damage
+				+20 max mana
+				+2 max minions
+				'''
+			FrozenTurtleMail:
+				'''
+				5% increased whip range multiplier
+				15% increased damage
+				+15 max mana
+				+2 max minions
+				'''
+			FrozenTurtleLeggings:
+				'''
+				5% increased whip range multiplier
+				15% increased movement speed
+				Increased armor penetration
+				+10 max mana
+				'''
+			TrueShadowHelmet:
+				'''
+				15% increased melee speed and damage
+				15% increased critical strike chance
+				'''
+			TrueShadowChestplate: 10% increased critical strike chance
+			TrueShadowLeggings: 25% increased movement speed
+			TitanHelmet:
+				'''
+				15% increased ranged damage,
+				10% increased ranged critical strike chance
+				'''
+			TitanMail:
+				'''
+				5% increased ranged damage,
+				10% increased ranged critical strike chance
+				'''
+			TitanLeggings: 10% increased movement speed and ranged damage
+			RickSanchezHead: 15% increased gamer damage and critical strike chance
+			RickSanchezBody:
+				'''
+				5% increased gamer damage
+				10% increased gamer critical strike chance
+				'''
+			RickSanchezLegs:
+				'''
+				10% increased gamer damage
+				12% increased movement speed
+				'''
+			EdgeHelmet:
+				'''
+				5% increased summon damage
+				+1 max minions
+				'''
+			EdgeChestplate:
+				'''
+				15% increased summon damage and critical strike chance
+				+1 max minions
+				'''
+			EdgeLeggings:
+				'''
+				20% increased movement speed and summon damage
+				+1 max minions
+				'''
+			SpectralHeadgear:
+				'''
+				Increases maximum mana by 120
+				15% increased magic damage and critical strike chance
+				'''
+			SpectralArmor:
+				'''
+				5% increased magical damage,
+				10% reduced mana usage
+				10% increased magical critical strike chance
+				'''
+			SpectralSubligar:
+				'''
+				10% increased movement speed and magical damage
+				Increases maximum mana by 30
+				'''
+			AmberHood:
+				'''
+				15% increased magic damage
+				+10 max mana
+				'''
+			AmberRobe:
+				'''
+				5% increased magic damage
+				Reduces mana usage by 15%
+				+75 max mana
+				'''
+			EmeraldHood:
+				'''
+				15% increased magic damage
+				+10 max mana
+				'''
+			EmeraldRobe:
+				'''
+				5% increased magic damage
+				Reduces mana usage by 15%
+				+75 max mana
+				'''
+			MarioHead:
+				'''
+				2% increased gamer damage
+				25% increased movement speed
+				'''
+			MarioBody:
+				'''
+				2% increased gamer damage
+				25% increased movement speed
+				'''
+			MarioLegs:
+				'''
+				2% increased gamer damage
+				25% increased movement speed
+				'''
+			SonicHead:
+				'''
+				2% increased gamer damage
+				25% increased movement speed
+				'''
+			SonicBody:
+				'''
+				2% increased gamer damage
+				25% increased movement speed
+				'''
+			SonicLegs:
+				'''
+				2% increased gamer damage
+				25% increased movement speed
+				'''
+			AmogusHead:
+				'''
+				7% increased gamer damage
+				Critical strike chance increased by 4% in all gamer class weapons
+				'''
+			AmogusBody: 7% increased gamer damage
+			AmogusPants: 7% increased gamer damage
+			LihzahrdHelmet:
+				'''
+				5% increased magical damage
+				Increases maximum mana by 55
+				10% reduced mana use
+				'''
+			LihzahrdChestplate: 8% increased magical damage and critical strike chance
+			LihzahrdLeggings: 8% increased movement speed and magical damage
+			OrbOfPain:
+				'''
+				A orb appears in all of the player's cursors (Only in yours if solo)
+				600 dps
+				'''
+			GamingEmblem: 15% increased gamer damage
+			ReinforcedGemShield:
+				'''
+				6 defense
+				Allows the player to dash into the enemy
+				Double tap a direction
+				'''
+			DiamondHelmet: 5% increased melee critical strike chance
+			DiamondChestplate:
+				'''
+				5% increased melee damage
+				+5 defense
+				'''
+			DiamondLeggings: 5% increased melee speed
+			RubyHelmet: 14% increased melee critical strike chance
+			RubyChestplate: 14% increased melee damage
+			RubyLeggings: 14% increased melee and movement speed
+			AmethystHelmet: 8% increased ranged damage
+			AmethystChestplate: 8% increased ranged damage
+			AmethystLeggings:
+				'''
+				8% increased ranged damage
+				15% increased movement speed
+				'''
+			SapphireHelmet: 8% increased ranged damage
+			SapphireChestplate: 8% increased ranged damage
+			SapphireLeggings:
+				'''
+				8% increased ranged damage
+				15% increased movement speed
+				'''
+			TopazHelmet: 20% increased summon damage
+			TopazChestplate: +2 max minions
+			TopazLeggings: 10% increased summon damage
+			YaquisButterfly:
+				'''
+				27% increased melee, gamer, ranged, and magic damage
+				12% increased melee, gamer, ranged, and magic critical strike chance
+				122% increased summon damage and critical strike chance
+				20% chance to not consume ammo
+				12% increased melee knockback
+				Increased life regeneration
+				Provides same effects as a mana flower
+
+				84 defense
+				+4 max minions
+				'''
+			YaquisBlueButterfly:
+				'''
+				22% increased ranged damage
+				7% increased ranged critical strike chance
+				20% chance to not consume ammo
+				24 defense
+				'''
+			YaquisGreenButterfly:
+				'''
+				22% increased gamer damage
+				7% increased gamer critical strike chance
+				17 defense
+				'''
+			YaquisOrangeButterfly:
+				'''
+				22% increased melee damage
+				7% increased melee critical strike chance
+
+				15 defense
+				Increased life regeneration
+				'''
+			YaquisPurpleButterfly:
+				'''
+				22% increased magic damage
+				7% increased magic critical strike chance
+				Provides same effects as a mana flower
+				14 defense
+				'''
+			YaquisRedButterfly:
+				'''
+				12% increased melee knockback
+				5% increased melee, gamer, ranged, and magic damage and critical strike chance
+				100% increased summon damage and critical strike chance
+				+1 max minions
+				'''
+			YaquisYellowButterfly:
+				'''
+				22% increased summon damage
+				14 defense
+				+3 max minions
+				'''
+			EyeSpeculum: Summons an eye that always watches
+			Quesadilla: Major improvements to all stats
+			SoulPotion:
+				'''
+				Grants immortality
+				'Is it really worth it?'
+				(Quick Healing wont enable the 'Soul Manipulation' buff, you have to do it with your main hand or by quick buffing)
+				'''
+			SuspiciousLookingSkull:
+				'''
+				Summons The Mechanical Brain 
+				Not consumable
+				'''
+			DarkEssence: "'Obtained by the darkest creatures'"
+			EssenceOfDeath: "'The reincarnation of death right in your hands'"
+			SoulOfBlight: "'The essence of infected creatures'"
+			MechBrainBossBag: "{$CommonItemTooltip.RightClickToOpen}"
+			ConverterCraftingStation: Converts ores and bars
+			Yaquiturimisha:
+				'''
+				Shoots butterflies that follow your cursor (when cursor is close to the butterflies)
+				'The peace reminds you of a rain of butterflies'
+				'''
+			BarkBarkChain: "'High velocity dogs make a chain around your enemies'"
+			DirtyBrotherKiller: "'You feel like you are going to have a bad time'"
+			AbandonedScythe:
+				'''
+				Who would abandon this?
+				Right click to throw scythe
+				Inflicts 'Cursed Inferno' debuff on enemies for 3 seconds
+				'''
+			ThePortalGun: "'Snap back to reality'"
+			HammerheadMorty: "'Aww Jeez!'"
+			VortexTriCannon: "'Send your financial worries to space!'"
+			Dukezooka:
+				'''
+				'A happy and innocent mini-duke fires at your enemies'
+				Increases damage and use-time on use
+				Max damage cap: 3000
+				'''
+			SammyTheBow: "'I am Sammy, and I am a bow'"
+			PrimalSkullForce: "'Forces of mechanical power shoot trough this gun'"
+			StarsScreams: "'The screams of the stars help you'"
+			BookOfBreath: "'The Breath of Spazmatism is in this book'"
+			ProbeWhip:
+				'''
+				7 summon tag damage
+				Your summons will focus struck enemies
+				'''
+			AbandonedPickaxe: Can mine Meteorite
+		}
+
+		ItemSetBonus: {
+			DragonSet: 21% increased melee and movement speed
+			KratosSet: 30% increased gamer damage
+			SansSet: 30% increased gamer damage
+			FrozenTurtleSet:
+				'''
+				10% increased damage, melee speed and critical strike chance
+				Increased life regeneration
+				Reduces damage taken by 25%
+				+1 max minion
+				'''
+			TrueShadowSet:
+				'''
+
+				Greatly increased life regen
+				Grants immunity to most debuffs debuffs
+				'''
+			TitanSet: 25% chance to not consume ammo
+			RickSanchezSet: 21% increased gamer damage
+			EdgeSet:
+				'''
+				40% increased whip range multiplier
+				+3 max minions
+				'''
+			SpectralSet: 23% reduced mana usage
+			AmberSet: 40% increased magic damage
+			EmeraldSet: 5% increased magic damage
+			MarioSet:
+				'''
+				4% increased gamer damage
+				Greatly increased life regen
+				'''
+			SonicSet: 25% increased movement speed
+			DiamondSet: 10% increased melee damage
+			RubySet: 25% increased melee damage
+			AmethystSet: 10% increased ranged damage and critical strike chance
+			SapphireSet: 10% increased ranged damage and critical strike chance
+			TopazSet:
+				'''
+				Increases whip range by 75% and speed by 40%,
+				Increases minion damage by 15%
+				'''
+			LihzahrdSet: Increases maximum mana by 20
+			AmogusSet: 10% extra gamer damage
+			GuardSet: Maximum mana increased by 20
+			DefenderSet: Reduces damage taken by 5%
+			ProtectorSet: Confuse enemies after being struck by them
+			BrokenHeroSet: Baby Mothrons help you kill your enemies
+			PaladinSet: Reduces damage taken by 25%
+			RoyalGuardSet:
+				'''
+				’The king blesses you.’
+				You obtain the “Royal Guard” effect.
+				'''
+		}
+
+		BuffName: {
+			SoulBuff: Soul Manipulation
+			OcramsEyeBuff: Red Eye
+			GemBossPetBuff: Gemmonide Jr.
+			BadSugarRush: Sugar Rushed
+			Oiled: Oiled
+			CursedIchor: Cursed Ichor
+			MilkBuff: Milky
+			GooseKnifeBuff: Goose with a Knife
+			CorruptedDebuff: Corrupted
+			BloodButcheredDebuff: Blood Butchered
+			BlueDemonBuff: Blue Demon
+			Shield_Sickness: Shield Sickness
+			GemmonedDebuff: Gemmoned
+			God_sPersecution: God's Persecution
+			RoyalGuardBuff: Royal Guard
+		}
+
+		BuffDescription: {
+			SoulBuff:
+				'''
+				'The power of the souls is within you!'
+				Grants immortality
+				'''
+			OcramsEyeBuff: "'I am always watching'"
+			GemBossPetBuff: "'My dad is going to kill you!'"
+			BadSugarRush:
+				'''
+				Decreases movement speed by 50%
+				Decreases defense and life regeneration
+				'''
+			Oiled: Taking more damage from being on fire
+			CursedIchor: Losing life
+			MilkBuff: "'Mooooo'"
+			GooseKnifeBuff: "'QUAACKK!'"
+			CorruptedDebuff: Bleeding in rapidly
+			BloodButcheredDebuff: Bleeding out rapidly
+			BlueDemonBuff: Contact damage increased by 180%!
+			Shield_Sickness: Contact damage reduced by 65%
+			GemmonedDebuff: You are frozen! Also rainbowy!
+			God_sPersecution: God has forsaken you
+			RoyalGuardBuff:
+				'''
+				'Power of friendship!'
+				Enemies become friendly after attacking you.
+				'''
+		}
+
+		MapObject.LostFragmentOre: Lost Fragment
+
+		Dialogue: {
+			WalterWhite: {
+				PartyGirlDialogue: Say my name.
+				StandardDialogue1: Where is Jesse?
+				StandardDialogue2: I am the danger.
+				StandardDialogue3: Who the hell is kid named finger?
+				CommonDialogue: Gus had it coming to him.
+				RareDialogue: I did it for me. I liked it. I was good at it.
+				TalkALot: Jesse, we need to cook!
+			}
+		}
+
+		Buffs: {
+			BadSugarRush: {
+				DisplayName: Bad Sugar Rush
+				Description:
+					'''
+					Decreases movement speed by 50% 
+					Decreases defense and life regeneration
+					'''
+			}
+
+			CursedIchor: {
+				DisplayName: Cursed Ichor
+				Description: Losing life
+			}
+
+			Oiled: {
+				DisplayName: Oiled
+				Description: Taking more damage from being on fire
+			}
+
+			BlueDemonBuff: {
+				DisplayName: Blue Demon Buff
+				Description: Contact damage increased by 180%!
+			}
+
+			RoyalGuardBuff: {
+				DisplayName: Royal Guard Buff
+				Description:
+					'''
+					Power of friendship! 
+					Enemies become friendly after attacking you.
+					'''
+			}
+
+			BloodButcheredDebuff: {
+				DisplayName: Blood Butchered Debuff
+				Description: Bleeding out rapidly
+			}
+
+			CorruptedDebuff: {
+				DisplayName: Corrupted Debuff
+				Description: Bleeding in rapidly
+			}
+
+			GemmonedDebuff: {
+				DisplayName: Gemmoned Debuff
+				Description:
+					'''
+					You are frozen! 
+					Also rainbowy!
+					'''
+			}
+
+			God_sPersecution: {
+				DisplayName: God's Persecution
+				Description: God has forsaken you!
+			}
+
+			Shield_Sickness: {
+				DisplayName: Shield_ Sickness
+				Description: Contact damage reduced by 65%
+			}
+		}
+
+		Items: {
+			SpectralArmor: {
+				DisplayName: Spectral Armor
+				Tooltip:
+					'''
+					5% increased magical damage,
+					10% reduced mana usage
+					10% increased magical critical strike chance
+					'''
+			}
+
+			SpectralHeadgear: {
+				DisplayName: Spectral Headgear
+				Tooltip:
+					'''
+					Increases maximum mana by 120
+					15% increased magic damage and critical strike chance
+					'''
+			}
+
+			SpectralSubligar: {
+				DisplayName: Spectral Subligar
+				Tooltip:
+					'''
+					10% increased movement speed and magical damage
+					Increases maximum mana by 30
+					'''
+			}
+
+			TitanHelmet: {
+				DisplayName: Titan Helmet
+				Tooltip:
+					'''
+					15% increased ranged damage,
+					10% increased ranged critical strike chance
+					'''
+			}
+
+			TitanLeggings: {
+				DisplayName: Titan Leggings
+				Tooltip: 10% increased movement speed and ranged damage
+			}
+
+			TitanMail: {
+				DisplayName: Titan Mail
+				Tooltip:
+					'''
+					5% increased ranged damage,
+					10% increased ranged critical strike chance
+					'''
+			}
+
+			EdgeChestplate: {
+				DisplayName: Edge Chestplate
+				Tooltip:
+					'''
+					15% increased summon damage and critical strike chance
+					+1 max minions
+					'''
+			}
+
+			EdgeHelmet: {
+				DisplayName: Edge Helmet
+				Tooltip:
+					'''
+					5% increased summon damage
+					+1 max minions
+					'''
+			}
+
+			EdgeLeggings: {
+				DisplayName: Edge Leggings
+				Tooltip:
+					'''
+					20% increased movement speed and summon damage
+					+1 max minions
+					'''
+			}
+
+			RoyalGuardBreastplate: {
+				DisplayName: Royal Guard Breastplate
+				Tooltip:
+					'''
+					20% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 10
+					Enemies are less likely to target you
+					'''
+			}
+
+			RoyalGuardGreaves: {
+				DisplayName: Royal Guard Greaves
+				Tooltip:
+					'''
+					15% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 10
+					18% increased movement speed
+					Enemies are less likely to target you
+					'''
+			}
+
+			RoyalGuardMask: {
+				DisplayName: Royal Guard Mask
+				Tooltip:
+					'''
+					25% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 10
+					Enemies are less likely to target you
+					'''
+			}
+
+			BrokenHeroChestplate: {
+				DisplayName: Broken Hero Chestplate
+				Tooltip:
+					'''
+					15% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 6
+					'''
+			}
+
+			BrokenHeroHelmet: {
+				DisplayName: Broken Hero Helmet
+				Tooltip:
+					'''
+					18% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 6
+					'''
+			}
+
+			BrokenHeroLeggings: {
+				DisplayName: Broken Hero Leggings
+				Tooltip:
+					'''
+					12% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 6
+					5% increased movement speed
+					'''
+			}
+
+			PaladinGreaves: {
+				DisplayName: Paladin Greaves
+				Tooltip:
+					'''
+					12% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 7
+					'''
+			}
+
+			PaladinMask: {
+				DisplayName: Paladin Mask
+				Tooltip:
+					'''
+					20% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 7
+					'''
+			}
+
+			PaladinPlateMail: {
+				DisplayName: Paladin Plate Mail
+				Tooltip:
+					'''
+					16% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 7
+					'''
+			}
+
+			ProtectorChestplate: {
+				DisplayName: Protector Chestplate
+				Tooltip:
+					'''
+					14% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 5
+					'''
+			}
+
+			ProtectorHelmet: {
+				DisplayName: Protector Helmet
+				Tooltip:
+					'''
+					16% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 5
+					'''
+			}
+
+			ProtectorLeggings: {
+				DisplayName: Protector Leggings
+				Tooltip:
+					'''
+					10% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 5
+					8% increased movement speed
+					'''
+			}
+
+			DefenderChestplate: {
+				DisplayName: Defender Chestplate
+				Tooltip:
+					'''
+					15% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 4
+					'''
+			}
+
+			DefenderHelmet: {
+				DisplayName: Defender Helmet
+				Tooltip:
+					'''
+					12% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 3
+					'''
+			}
+
+			DefenderLeggings: {
+				DisplayName: Defender Leggings
+				Tooltip:
+					'''
+					5% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 3
+					'''
+			}
+
+			GuardChestplate: {
+				DisplayName: Guard Chestplate
+				Tooltip:
+					'''
+					18% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 4
+					'''
+			}
+
+			GuardHelmet: {
+				DisplayName: Guard Helmet
+				Tooltip:
+					'''
+					6% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 2
+					'''
+			}
+
+			GuardLeggings: {
+				DisplayName: Guard Leggings
+				Tooltip:
+					'''
+					4% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 2
+					'''
+			}
+
+			TrafficConeHat: {
+				DisplayName: Traffic Cone Hat
+				Tooltip: "'Meant to prevent accidents, repurposed to a hat.'"
+			}
+
+			MiniSkull: {
+				DisplayName: Mini Skull
+				Tooltip: "'Where did the skull come from?'"
+			}
+
+			StarHook: {
+				DisplayName: Star Hook
+				Tooltip: ""
+			}
+
+			FaithfulFragment: {
+				DisplayName: Faithful Fragment
+				Tooltip: "'The belief of the universe is found within this fragment'"
+			}
+
+			BookOfBreath: {
+				DisplayName: Book Of Breath
+				Tooltip: "'The Breath of Spazmatism is in this book'"
+			}
+
+			StarsScreams: {
+				DisplayName: Stars Screams
+				Tooltip: "'The screams of the stars help you'"
+			}
+
+			StarIndignation: {
+				DisplayName: Star Indignation
+				Tooltip: ""
+			}
+
+			Dukezooka: {
+				DisplayName: Dukezooka
+				Tooltip:
+					'''
+					'A happy and innocent mini-duke fires at your enemies'
+					Increases damage and use-time on use
+					Max damage cap: 3000
+					'''
+			}
+
+			PrimalSkullForce: {
+				DisplayName: Primal Skull Force
+				Tooltip: "'Forces of mechanical power shoot trough this gun'"
+			}
+
+			SammyTheBow: {
+				DisplayName: Sammy The Bow
+				Tooltip: "'I am Sammy, and I am a bow!'"
+			}
+
+			VortexTriCannon: {
+				DisplayName: Vortex TriCannon
+				Tooltip: "'Send your financial worries to space!'"
+			}
+
+			LuminiteShield: {
+				DisplayName: Luminite Shield
+				Tooltip: ""
+			}
+
+			MeowShield: {
+				DisplayName: Meow Shield
+				Tooltip: ""
+			}
+
+			StellarShield: {
+				DisplayName: Stellar Shield
+				Tooltip: ""
+			}
+
+			ZenithShield: {
+				DisplayName: Zenith Shield
+				Tooltip: ""
+			}
+
+			AdamantiteShield: {
+				DisplayName: Adamantite Shield
+				Tooltip: ""
+			}
+
+			AegisShield: {
+				DisplayName: Aegis Shield
+				Tooltip: ""
+			}
+
+			BrokenHeroShield: {
+				DisplayName: Broken Hero Shield
+				Tooltip: ""
+			}
+
+			ChlorophyteShield: {
+				DisplayName: Chlorophyte Shield
+				Tooltip: ""
+			}
+
+			CobaltShield: {
+				DisplayName: Cobalt Shield
+				Tooltip: ""
+			}
+
+			HallowedShield: {
+				DisplayName: Hallowed Shield
+				Tooltip: ""
+			}
+
+			Horseman_sShield: {
+				DisplayName: Horseman's Shield
+				Tooltip: ""
+			}
+
+			InfluxShield: {
+				DisplayName: Influx Shield
+				Tooltip: ""
+			}
+
+			MythrilShield: {
+				DisplayName: Mythril Shield
+				Tooltip: ""
+			}
+
+			OrichalcumShield: {
+				DisplayName: Orichalcum Shield
+				Tooltip: ""
+			}
+
+			PalladiumShield: {
+				DisplayName: Palladium Shield
+				Tooltip: ""
+			}
+
+			PearlwoodShield: {
+				DisplayName: Pearlwood Shield
+				Tooltip: ""
+			}
+
+			SeedShield: {
+				DisplayName: Seed Shield
+				Tooltip: ""
+			}
+
+			ShieldOfLife: {
+				DisplayName: Shield Of Life
+				Tooltip: ""
+			}
+
+			ShieldOfTimber: {
+				DisplayName: Shield Of Timber
+				Tooltip: ""
+			}
+
+			ShroomiteShield: {
+				DisplayName: Shroomite Shield
+				Tooltip: ""
+			}
+
+			SpectreShield: {
+				DisplayName: Spectre Shield
+				Tooltip: ""
+			}
+
+			SpookyWoodShield: {
+				DisplayName: Spooky Wood Shield
+				Tooltip: ""
+			}
+
+			TerraShield: {
+				DisplayName: Terra Shield
+				Tooltip: ""
+			}
+
+			TitaniumShield: {
+				DisplayName: Titanium Shield
+				Tooltip: ""
+			}
+
+			TrueAegisShield: {
+				DisplayName: True Aegis Shield
+				Tooltip: ""
+			}
+
+			TrueLunarShield: {
+				DisplayName: True Lunar Shield
+				Tooltip: ""
+			}
+
+			BeeShield: {
+				DisplayName: Bee Shield
+				Tooltip: ""
+			}
+
+			BorealWoodShield: {
+				DisplayName: Boreal Wood Shield
+				Tooltip: ""
+			}
+
+			CactusShield: {
+				DisplayName: Cactus Shield
+				Tooltip: ""
+			}
+
+			CopperShield: {
+				DisplayName: Copper Shield
+				Tooltip: ""
+			}
+
+			CrimtaneShield: {
+				DisplayName: Crimtane Shield
+				Tooltip: ""
+			}
+
+			DemoniteShield: {
+				DisplayName: Demonite Shield
+				Tooltip: ""
+			}
+
+			EbonwoodShield: {
+				DisplayName: Ebonwood Shield
+				Tooltip: ""
+			}
+
+			EnchantedShield: {
+				DisplayName: Enchanted Shield
+				Tooltip: ""
+			}
+
+			GoldShield: {
+				DisplayName: Gold Shield
+				Tooltip: ""
+			}
+
+			GrassShield: {
+				DisplayName: Grass Shield
+				Tooltip: ""
+			}
+
+			HellStoneShield: {
+				DisplayName: Hell Stone Shield
+				Tooltip: ""
+			}
+
+			IronShield: {
+				DisplayName: Iron Shield
+				Tooltip: ""
+			}
+
+			LeadShield: {
+				DisplayName: Lead Shield
+				Tooltip: ""
+			}
+
+			LunarShield: {
+				DisplayName: Lunar Shield
+				Tooltip: ""
+			}
+
+			MagicShield: {
+				DisplayName: Magic Shield
+				Tooltip: ""
+			}
+
+			MeteoriteShield: {
+				DisplayName: Meteorite Shield
+				Tooltip: ""
+			}
+
+			PalmWoodShield: {
+				DisplayName: Palm Wood Shield
+				Tooltip: ""
+			}
+
+			PlatinumShield: {
+				DisplayName: Platinum Shield
+				Tooltip: ""
+			}
+
+			RichMahoganyShield: {
+				DisplayName: Rich Mahogany Shield
+				Tooltip: ""
+			}
+
+			ShadewoodShield: {
+				DisplayName: Shadewood Shield
+				Tooltip: ""
+			}
+
+			SilverShield: {
+				DisplayName: Silver Shield
+				Tooltip: ""
+			}
+
+			StarShield: {
+				DisplayName: Star Shield
+				Tooltip: ""
+			}
+
+			TinShield: {
+				DisplayName: Tin Shield
+				Tooltip: ""
+			}
+
+			TungstenShield: {
+				DisplayName: Tungsten Shield
+				Tooltip: ""
+			}
+
+			WoodShield: {
+				DisplayName: Wood Shield
+				Tooltip: ""
+			}
+
+			ProbeWhip: {
+				DisplayName: Probe Whip
+				Tooltip:
+					'''
+					7 summon tag damage
+					Your summons will focus struck enemies
+					'''
+			}
+
+			ConverterCraftingStation: {
+				DisplayName: Converter Crafting Station
+				Tooltip: Converts ores and bars
+			}
+		}
+
+		NPCs: {
+			EOCServant.DisplayName: E O C Servant
+			EOCServantAttacker.DisplayName: E O C Servant Attacker
+			MCCreeper.DisplayName: M C Creeper
+			PVZConeHeadZombie.DisplayName: P V Z Cone Head Zombie
+			SkyMimic.DisplayName: Sky Mimic
+		}
+
+		Projectiles: {
+			CandySpikeProjectile.DisplayName: Candy Spike Projectile
+			NothingProjectile.DisplayName: Nothing Projectile
+			CreeperProjectile.DisplayName: Creeper Projectile
+			MiniSkullProjectile.DisplayName: Mini Skull Projectile
+			VortexStar.DisplayName: Vortex Star
+			HeartedProjectile.DisplayName: Hearted Projectile
+			HellStoneShieldProjectile.DisplayName: Hell Stone Shield Projectile
+			LuminiteShieldProjectile.DisplayName: Luminite Shield Projectile
+			MiniMothronBabyProjectile.DisplayName: Mini Mothron Baby Projectile
+			AppleProjectile.DisplayName: Apple Projectile
+			BananaProjectile.DisplayName: Banana Projectile
+			BlackcurrantProjectile.DisplayName: Blackcurrant Projectile
+			BloodOrangeProjectile.DisplayName: Blood Orange Projectile
+			CherryProjectile.DisplayName: Cherry Projectile
+			DragonFruitProjectile.DisplayName: Dragon Fruit Projectile
+			PineappleProjectile.DisplayName: Pineapple Projectile
+			ProbeWhipProjectile.DisplayName: Probe Whip Projectile
+			MechanicalHookProjectile.DisplayName: Mechanical Hook Projectile
+			StarHookProjectile.DisplayName: Star Hook Projectile
+		}
+
+		DamageClasses.ShieldClassDamage.DisplayName: contact damage
+	}
+}

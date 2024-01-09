@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bydpwS7H8mZ/mMnKveKNBo/GRNcKp+OoQj9o7hgsUp17nUR8c2AvW9egJ8MiXy90cueqnvDOwjLBNIlp7y9Kgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angel\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\RuinMod\\RuinMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

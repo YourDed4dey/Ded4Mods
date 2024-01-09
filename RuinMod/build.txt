@@ -1,0 +1,6 @@
+displayName = Ruin
+author = YourDed4dey
+version = 1.4
+homepage =  https://discord.gg/r5Ca5Bhtay
+hideCode = true
+hideResources = true

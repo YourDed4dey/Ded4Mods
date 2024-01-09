@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C+KG5uKV8RIAeVytETtLJ7vnXtx8PZqnEbgMzk3Bb947hHZr8qbbjxEi9XML9K4G68YSdb+KLaUqaq2ZQP20Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angel\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\DedsBosses\\DedsBosses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

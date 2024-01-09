@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>RuinMod</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\Sounds\" />
+    <Folder Include="Common\Global\DevastatedDiff\Consumables\BossSummons\" />
+    <Folder Include="Common\Global\DevastatedDiff\ExclusiveItems\Ammo\" />
+    <Folder Include="Common\Global\DevastatedDiff\ExclusiveItems\Drops\" />
+    <Folder Include="Common\Global\DevastatedDiff\ExclusiveItems\Placeables\" />
+    <Folder Include="Common\Global\DevastatedDiff\Armor\" />
+    <Folder Include="Common\Global\DevastatedDiff\NPCS\EnemiesAI\" />
+    <Folder Include="Common\Global\DevastatedDiff\NPCS\FriendlyAI\" />
+    <Folder Include="Common\Global\DevastatedDiff\Potions\Buffs\" />
+    <Folder Include="Common\Global\DevastatedDiff\Projectiles\FriendlyAI\" />
+    <Folder Include="Common\Global\DevastatedDiff\TestStuff\" />
+    <Folder Include="Common\Global\DevastatedDiff\Weapons\" />
+    <Folder Include="Common\Global\DevastatedDiff\Tools\" />
+    <Folder Include="Common\Systems\TestSystems\" />
+    <Folder Include="Content\Armor\Accesories\ChainClassAccesories\PreHardmode\" />
+    <Folder Include="Content\Armor\Accesories\GamerClassAccesories\PreHardmode\" />
+    <Folder Include="Content\Armor\Accesories\PreHardmode\" />
+    <Folder Include="Content\Armor\PreHardmode\All\" />
+    <Folder Include="Content\Projectiles\NPCSProjectiles\FriendlyNPCSProjectiles\" />
+    <Folder Include="Content\Tools\Axe\Harmode\" />
+    <Folder Include="Content\Tools\HamAxe\PreHardmode\" />
+    <Folder Include="Content\Tools\Hammer\Hardmode\" />
+    <Folder Include="Content\Tools\Hammer\Pre_Hardmode\" />
+    <Folder Include="Content\Tools\Hooks\PreHardmode\" />
+    <Folder Include="Content\Weapons\ProjectileWeapons\Pre_Hardmode\" />
+    <Folder Include="Content\Weapons\SummonerWeapons\Pre_Hardmode\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
+  </ItemGroup>
+</Project>

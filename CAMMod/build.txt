@@ -1,0 +1,4 @@
+displayName = Craftable Ancient Manipulator
+author = YourDed4dey
+version = 0.2
+homepage =  https://discord.gg/r5Ca5Bhtay

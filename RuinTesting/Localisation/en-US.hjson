@@ -1,0 +1,35 @@
+Mods: {
+	RuinTesting: {
+		Config: {
+		}
+
+		ItemSetBonus: {
+		}
+
+		BuffName: {
+		}
+
+		BuffDescription: {
+		}
+
+		MapObject: {
+		}
+
+		Dialogue: {
+		}
+
+		Items: {
+			VoiyedSummon: {
+				DisplayName: Voiyed Summon
+				Tooltip: Summons the Voiyed boss
+			}
+		}
+
+		NPCs: {
+			ServantOfTheVoiyed.DisplayName: Servant Of The Voiyed
+			ServantOfTheVoiyedSecondStage.DisplayName: Servant Of The Voiyed
+			Voiyed.DisplayName: Voiyed
+			VoiyedClone.DisplayName: Voiyed
+		}
+	}
+}

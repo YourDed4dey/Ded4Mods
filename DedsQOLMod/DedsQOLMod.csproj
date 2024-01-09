@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>DedsQOLMod</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Assets\Textures\Bestiary\GemmyBoss_Preview.png" />
+    <None Remove="Assets\Textures\UI\MapMark.png" />
+    <None Remove="Content\Items\Armor\Vanity\BossMasks\GemmyMask.png" />
+    <None Remove="Content\Items\Armor\Vanity\BossMasks\GemmyMask_Head.png" />
+    <None Remove="Content\Items\Consumables\BossSummons\CultistSummon.png" />
+    <None Remove="Content\Items\Consumables\BossSummons\EOLSummon.png" />
+    <None Remove="Content\Items\Consumables\BossSummons\Gemminode.png" />
+    <None Remove="Content\Items\Consumables\BossSummons\PlanteraSummon.png" />
+    <None Remove="Content\Items\Drops\GemmyDrops\GemmyBossBag\GemmyBossBag.png" />
+    <None Remove="Content\Items\Drops\GemmyDrops\GemmyRelic\GemmyRelic.png" />
+    <None Remove="Content\Items\Drops\GemmyDrops\GemmyRelic\RelicTile\GemmyRelicTile.png" />
+    <None Remove="Content\Items\Drops\GemmyDrops\GemmyTrophy\GemmyTrophy.png" />
+    <None Remove="Content\Items\Drops\GemmyDrops\GemmyTrophy\Tile\GemmyTrophyTile.png" />
+    <None Remove="Content\Items\Pets\GemmyPet\GemmyPet.png" />
+    <None Remove="Content\Items\Pets\GemmyPet\GemmyPetBuff.png" />
+    <None Remove="Content\Items\Pets\GemmyPet\GemmyPetProjectile.png" />
+    <None Remove="Content\Items\RelicPedestal\RelicPedestal.png" />
+    <None Remove="Content\NPCs\Bosses\GemBoss\GemBoss.png" />
+    <None Remove="Content\NPCs\Bosses\GemBoss\GemBoss_Head_Boss.png" />
+    <None Remove="Content\NPCs\Bosses\GemBoss\Gores\GemBossGore_Back.png" />
+    <None Remove="Content\NPCs\Bosses\GemBoss\Gores\GemBossGore_Front.png" />
+    <None Remove="Content\Projectiles\FireCircle\CircleOfFire.png" />
+    <None Remove="Content\Projectiles\Gems\Amber.png" />
+    <None Remove="Content\Projectiles\Gems\Amethyst.png" />
+    <None Remove="Content\Projectiles\Gems\Diamond.png" />
+    <None Remove="Content\Projectiles\Gems\Emerald.png" />
+    <None Remove="Content\Projectiles\Gems\Ruby.png" />
+    <None Remove="Content\Projectiles\Gems\Sapphire.png" />
+    <None Remove="Content\Projectiles\Gems\Topaz.png" />
+    <None Remove="Content\Weapons\MageClass\PreHardmode\GemmyFireSpellBook.png" />
+    <None Remove="Content\Weapons\MageClass\PreHardmode\GemmySpellBook.png" />
+    <None Remove="Content\Weapons\MageClass\PreHardmode\GemmySpellBooks\GemmyGun.png" />
+    <None Remove="icon.png" />
+    <None Remove="icon_small.png" />
+    <None Remove="icon_workshop.png" />
+    <None Remove="TODO.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Common\Systems\UI\" />
+    <Folder Include="Content\Weapons\MageClass\Hardmode\" />
+    <Folder Include="Content\Weapons\MageClass\PostML\" />
+    <Folder Include="Content\Weapons\MeleeClass\Hardmode\" />
+    <Folder Include="Content\Weapons\MeleeClass\PostML\" />
+    <Folder Include="Content\Weapons\MeleeClass\PreHardmode\" />
+    <Folder Include="Content\Weapons\LifetakerClass\" />
+    <Folder Include="Content\Weapons\RangerClass\Hardmode\" />
+    <Folder Include="Content\Weapons\RangerClass\PostML\" />
+    <Folder Include="Content\Weapons\SummonerClass\Hardmode\" />
+    <Folder Include="Content\Weapons\SummonerClass\PostML\" />
+    <Folder Include="Content\Weapons\SummonerClass\PreHardmode\" />
+  </ItemGroup>
+</Project>

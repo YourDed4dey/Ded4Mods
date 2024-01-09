@@ -1,0 +1,37 @@
+﻿using Terraria;
+using Terraria.ID;
+using Terraria.GameContent.Creative;
+using Microsoft.Xna.Framework;
+using Terraria.ModLoader;
+
+namespace DedsQOLMod.Content.Items.Potions.Unlimited.Flask
+{
+    internal class UnlimitedFlaskofNanites : ModItem
+    {
+        public override string Texture => "Terraria/Images/Item_" + ItemID.FlaskofNanites;
+        public override void SetStaticDefaults()
+        {
+            Item.CloneDefaults(ItemID.FlaskofNanites);
+            //DisplayName.SetDefault("Unlimited Flask of Nanites");
+            //Tooltip.SetDefault("Melee and Whip attacks confuse enemies\n[c/FFFF00:How much can you drink?]");
+
+            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99;
+        }
+
+        public override void SetDefaults()
+        {
+            Item.CloneDefaults(ItemID.FlaskofNanites);
+            Item.maxStack = 1;
+            Item.color = Color.Cyan;
+            Item.consumable = false;
+            Item.rare = ItemRarityID.Red;
+        }
+
+        public override void AddRecipes()
+        {
+            CreateRecipe()
+                .AddIngredient(ItemID.FlaskofNanites, 30)
+                .Register();
+        }
+    }
+}

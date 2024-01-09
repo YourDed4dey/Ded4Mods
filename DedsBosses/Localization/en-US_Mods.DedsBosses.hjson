@@ -1,0 +1,479 @@
+Items: {
+	VoiyedSummon: {
+		DisplayName: Voiyed Summon
+		Tooltip: Summons Voiyed
+	}
+
+	VoiyedRelic: {
+		DisplayName: Voiyed Relic
+		Tooltip: ""
+	}
+
+	VoiyedBossBag: {
+		DisplayName: Treasure Bag (Voiyed)
+		Tooltip: Right Click to open
+	}
+
+	VoiyedTrophy: {
+		DisplayName: Voiyed Trophy
+		Tooltip: ""
+	}
+
+	VoiyedMask: {
+		DisplayName: Voiyed Mask
+		Tooltip: ""
+	}
+
+	VoiyedPet: {
+		DisplayName: Galactic Eye
+		Tooltip:
+			'''
+			Summons a small voiyed eye
+			'The void still gazes back...'
+			'''
+	}
+
+	VoiyedShield: {
+		DisplayName: Voiyed Shield
+		Tooltip: ""
+	}
+
+	FlagsInfo: {
+		Tooltip: ""
+		DisplayName: Flags Info
+	}
+
+	AutoDrill: {
+		DisplayName: Auto Drill
+		Tooltip: ""
+	}
+
+	CopperScythe: {
+		DisplayName: Copper Scythe
+		Tooltip: ""
+	}
+
+	BorealWoodScythe: {
+		DisplayName: Boreal Wood Scythe
+		Tooltip: ""
+	}
+
+	CactusScythe: {
+		DisplayName: Cactus Scythe
+		Tooltip: ""
+	}
+
+	EbonwoodScythe: {
+		DisplayName: Ebonwood Scythe
+		Tooltip: ""
+	}
+
+	IronScythe: {
+		DisplayName: Iron Scythe
+		Tooltip: ""
+	}
+
+	LeadScythe: {
+		DisplayName: Lead Scythe
+		Tooltip: ""
+	}
+
+	PalmWoodScythe: {
+		DisplayName: Palm Wood Scythe
+		Tooltip: ""
+	}
+
+	RichMahoganyScythe: {
+		DisplayName: Rich Mahogany Scythe
+		Tooltip: ""
+	}
+
+	ShadewoodScythe: {
+		DisplayName: Shadewood Scythe
+		Tooltip: ""
+	}
+
+	SilverScythe: {
+		DisplayName: Silver Scythe
+		Tooltip: ""
+	}
+
+	TinScythe: {
+		DisplayName: Tin Scythe
+		Tooltip: ""
+	}
+
+	TungstenScythe: {
+		DisplayName: Tungsten Scythe
+		Tooltip: ""
+	}
+
+	WoodenScythe: {
+		DisplayName: Wooden Scythe
+		Tooltip: ""
+	}
+
+	BloodfireScythe: {
+		DisplayName: Bloodfire Scythe
+		Tooltip: ""
+	}
+
+	CobaltScythe: {
+		DisplayName: Cobalt Scythe
+		Tooltip: ""
+	}
+
+	EnchantedScythe: {
+		DisplayName: Enchanted Scythe
+		Tooltip: ""
+	}
+
+	Etherblade: {
+		DisplayName: Etherblade
+		Tooltip: ""
+	}
+
+	GoldScythe: {
+		DisplayName: Gold Scythe
+		Tooltip: ""
+	}
+
+	HoneystrikeScythe: {
+		DisplayName: Honeystrike Scythe
+		Tooltip: ""
+	}
+
+	MeteorScythe: {
+		DisplayName: Meteor Scythe
+		Tooltip: ""
+	}
+
+	Moonshadow: {
+		DisplayName: Moonshadow
+		Tooltip: ""
+	}
+
+	MythrilScythe: {
+		DisplayName: Mythril Scythe
+		Tooltip: ""
+	}
+
+	OrichalcumScythe: {
+		DisplayName: Orichalcum Scythe
+		Tooltip: ""
+	}
+
+	PalladiumScythe: {
+		DisplayName: Palladium Scythe
+		Tooltip: ""
+	}
+
+	PearlwoodScythe: {
+		DisplayName: Pearlwood Scythe
+		Tooltip: ""
+	}
+
+	PlatinumScythe: {
+		DisplayName: Platinum Scythe
+		Tooltip: ""
+	}
+
+	ScytheOfGrass: {
+		DisplayName: Scythe Of Grass
+		Tooltip: ""
+	}
+
+	ShadowbladeScythe: {
+		DisplayName: Shadowblade Scythe
+		Tooltip: ""
+	}
+
+	SlimedEnchantedScythe: {
+		DisplayName: Slimed Enchanted Scythe
+		Tooltip: ""
+	}
+
+	AdamantiteScythe: {
+		DisplayName: Adamantite Scythe
+		Tooltip: ""
+	}
+
+	AwakenedMagmaflame: {
+		DisplayName: Awakened Magmaflame
+		Tooltip: ""
+	}
+
+	ChlorophyteScythe: {
+		DisplayName: Chlorophyte Scythe
+		Tooltip: ""
+	}
+
+	ScytheOfSovereignty: {
+		DisplayName: Scythe Of Sovereignty
+		Tooltip: ""
+	}
+
+	ShroomiteScythe: {
+		DisplayName: Shroomite Scythe
+		Tooltip: ""
+	}
+
+	SingularityReaper: {
+		DisplayName: Singularity Reaper
+		Tooltip: ""
+	}
+
+	SpectreScythe: {
+		DisplayName: Spectre Scythe
+		Tooltip: ""
+	}
+
+	SpookwoodSlicer: {
+		DisplayName: Spookwood Slicer
+		Tooltip: ""
+	}
+
+	ThornyReaver: {
+		DisplayName: Thorny Reaver
+		Tooltip: ""
+	}
+
+	TitaniumScythe: {
+		DisplayName: Titanium Scythe
+		Tooltip: ""
+	}
+
+	TrueScytheOfSovereignty: {
+		DisplayName: True Scythe Of Sovereignty
+		Tooltip: ""
+	}
+
+	TrueTwilightCleaver: {
+		DisplayName: True Twilight's Cleaver
+		Tooltip: ""
+	}
+
+	TwilightCleaver: {
+		DisplayName: Twilight's Cleaver
+		Tooltip: ""
+	}
+
+	TwilightTerror: {
+		DisplayName: Twilight's Terror
+		Tooltip: ""
+	}
+
+	UnawakenedMagmaflame: {
+		DisplayName: Unawakened Magmaflame
+		Tooltip: ""
+	}
+
+	Darkharvester: {
+		DisplayName: Darkharvester
+		Tooltip: ""
+	}
+
+	OakheartObliterator: {
+		DisplayName: Oakheart Obliterator
+		Tooltip: ""
+	}
+
+	TerrastrikeScythe: {
+		DisplayName: Terrastrike Scythe
+		Tooltip: ""
+	}
+
+	AstralEdge: {
+		DisplayName: Astral Edge
+		Tooltip: ""
+	}
+
+	KittyKutter: {
+		DisplayName: Kitty Kutter
+		Tooltip: ""
+	}
+
+	Shadowfall: {
+		DisplayName: Shadowfall
+		Tooltip: ""
+	}
+
+	VitalityLifereaper: {
+		DisplayName: Vitality Lifereaper
+		Tooltip: ""
+	}
+}
+
+NPCs: {
+	ServantOfTheVoiyed.DisplayName: Servant Of The Voiyed
+	ServantOfTheVoiyedSecondStage.DisplayName: Servant Of The Voiyed
+	VoiyedClone.DisplayName: Voiyed
+
+	Voiyed: {
+		DisplayName: Voiyed
+		BossChecklistIntegration.SpawnInfo: 20% chance to randomly spawn at 7:30 PM or at 4:30 AM in hardmode after you kill plantera. Use [i:DedsBosses/VoiyedSummon] at day or night to spawn.
+	}
+
+	Summoner: {
+		DisplayName: Summoner
+
+		TownNPCMood: {
+			Content: I'm here to share the secrets of summoning with you.
+			NoHome: My knowledge requires a proper space to call home.
+			FarFromHome: Sometimes, I long for my study filled with ancient tomes.
+			LoveSpace: A spacious dwelling is ideal for a summoner like me!
+			DislikeCrowded: I prefer a quiet space for my summoning rituals.
+			HateCrowded: The commotion of crowded places hinders my concentration.
+			LoveBiome: I have a profound affinity for the {BiomeName}. It resonates with my summons.
+			LikeBiome: The {BiomeName} holds interesting potential for my summoning experiments.
+			DislikeBiome: The {BiomeName} doesn't quite align with my summoning arts.
+			LoveNPC: I find great camaraderie with {NPCName}. Their company enhances my spells.
+			LikeNPC: "{NPCName} has a fascination for the arcane. We share common interests."
+			DislikeNPC: I don't quite see eye to eye with {NPCName}. Our practices differ.
+			HateNPC: I avoid {NPCName}. They disrupt my focus on summoning.
+			LikeNPC_Princess: "{NPCName} is intriguing. We often exchange magical insights."
+			Princess_LovesNPC: "{NPCName} has a deep respect for the summoning arts."
+		}
+	}
+
+	ElementalBoss.DisplayName: Elemental Boss
+}
+
+Dialogue: {
+	Summoner: {
+		PartyGirlDialogue: I am kinda bored of {0} parties.
+		StandardDialogue1: Ah, fellow summoner! How can I assist you with my arcane knowledge?
+		StandardDialogue2: I've mastered the art of summoning. Ask me anything about it!
+		StandardDialogue3: The bond between a summoner and their creatures is truly magical!
+		CommonDialogue: The forces of nature are at my command. How fascinating!
+		RareDialogue: Behold the prowess of my summoned companions!
+		TalkALot: Did you know that summoning spells were first discovered centuries ago?
+	}
+}
+
+Buffs: {
+	VoiyedPetBuff: {
+		DisplayName: Galactic Eye
+		Description: The void still gazes back...
+	}
+}
+
+Projectiles: {
+	VoiyedPetProjectile.DisplayName: Galactic Eye
+	SummonerProjectile.DisplayName: Summoner's summon
+	SpinningCopperScythe.DisplayName: Spinning Copper Scythe
+	ThrowableCopperScythe.DisplayName: Throwable Copper Scythe
+	SpinningBorealWoodScythe.DisplayName: Spinning Boreal Wood Scythe
+	SpinningCactusScythe.DisplayName: Spinning Cactus Scythe
+	SpinningEbonwoodScythe.DisplayName: Spinning Ebonwood Scythe
+	SpinningIronScythe.DisplayName: Spinning Iron Scythe
+	SpinningLeadScythe.DisplayName: Spinning Lead Scythe
+	SpinningPalmWoodScythe.DisplayName: Spinning Palm Wood Scythe
+	SpinningRichMahoganyScythe.DisplayName: Spinning Rich Mahogany Scythe
+	SpinningShadewoodScythe.DisplayName: Spinning Shadewood Scythe
+	SpinningSilverScythe.DisplayName: Spinning Silver Scythe
+	SpinningTinScythe.DisplayName: Spinning Tin Scythe
+	SpinningTungstenScythe.DisplayName: Spinning Tungsten Scythe
+	SpinningWoodenScythe.DisplayName: Spinning Wooden Scythe
+	ThrowableBorealWoodScythe.DisplayName: Throwable Boreal Wood Scythe
+	ThrowableCactusScythe.DisplayName: Throwable Cactus Scythe
+	ThrowableEbonwoodScythe.DisplayName: Throwable Ebonwood Scythe
+	ThrowableIronScythe.DisplayName: Throwable Iron Scythe
+	ThrowableLeadScythe.DisplayName: Throwable Lead Scythe
+	ThrowablePalmWoodScythe.DisplayName: Throwable Palm Wood Scythe
+	ThrowableRichMahoganyScythe.DisplayName: Throwable Rich Mahogany Scythe
+	ThrowableShadewoodScythe.DisplayName: Throwable Shadewood Scythe
+	ThrowableSilverScythe.DisplayName: Throwable Silver Scythe
+	ThrowableTinScythe.DisplayName: Throwable Tin Scythe
+	ThrowableTungstenScythe.DisplayName: Throwable Tungsten Scythe
+	ThrowableWoodenScythe.DisplayName: Throwable Wooden Scythe
+	SpinningBloodfireScythe.DisplayName: Spinning Bloodfire Scythe
+	SpinningCobaltScythe.DisplayName: Spinning Cobalt Scythe
+	SpinningEnchantedScythe.DisplayName: Spinning Enchanted Scythe
+	SpinningEtherblade.DisplayName: Spinning Etherblade
+	SpinningGoldScythe.DisplayName: Spinning Gold Scythe
+	SpinningHoneystrikeScythe.DisplayName: Spinning Honeystrike Scythe
+	SpinningMeteorScythe.DisplayName: Spinning Meteor Scythe
+	SpinningMoonshadow.DisplayName: Spinning Moonshadow
+	SpinningMythrilScythe.DisplayName: Spinning Mythril Scythe
+	SpinningOrichalcumScythe.DisplayName: Spinning Orichalcum Scythe
+	SpinningPalladiumScythe.DisplayName: Spinning Palladium Scythe
+	SpinningPearlwoodScythe.DisplayName: Spinning Pearlwood Scythe
+	SpinningPlatinumScythe.DisplayName: Spinning Platinum Scythe
+	SpinningScytheOfGrass.DisplayName: Spinning Scythe Of Grass
+	SpinningShadowbladeScythe.DisplayName: Spinning Shadowblade Scythe
+	SpinningSlimedEnchantedScythe.DisplayName: Spinning Slimed Enchanted Scythe
+	ThrowableBloodfireScythe.DisplayName: Throwable Bloodfire Scythe
+	ThrowableCobaltScythe.DisplayName: Throwable Cobalt Scythe
+	ThrowableEnchantedScythe.DisplayName: Throwable Enchanted Scythe
+	ThrowableEtherblade.DisplayName: Throwable Etherblade
+	ThrowableGoldScythe.DisplayName: Throwable Gold Scythe
+	ThrowableHoneystrikeScythe.DisplayName: Throwable Honeystrike Scythe
+	ThrowableMeteorScythe.DisplayName: Throwable Meteor Scythe
+	ThrowableMoonshadow.DisplayName: Throwable Moonshadow
+	ThrowableMythrilScythe.DisplayName: Throwable Mythril Scythe
+	ThrowableOrichalcumScythe.DisplayName: Throwable Orichalcum Scythe
+	ThrowablePalladiumScythe.DisplayName: Throwable Palladium Scythe
+	ThrowablePearlwoodScythe.DisplayName: Throwable Pearlwood Scythe
+	ThrowablePlatinumScythe.DisplayName: Throwable Platinum Scythe
+	ThrowableScytheOfGrass.DisplayName: Throwable Scythe Of Grass
+	ThrowableShadowbladeScythe.DisplayName: Throwable Shadowblade Scythe
+	ThrowableSlimedEnchantedScythe.DisplayName: Throwable Slimed Enchanted Scythe
+	SpinningAdamantiteScythe.DisplayName: Spinning Adamantite Scythe
+	ThrowableAdamantiteScythe.DisplayName: Throwable Adamantite Scythe
+	SpinningAwakenedMagmaflame.DisplayName: Spinning Awakened Magmaflame
+	SpinningChlorophyteScythe.DisplayName: Spinning Chlorophyte Scythe
+	SpinningScytheOfSovereignty.DisplayName: Spinning Scythe Of Sovereignty
+	SpinningShroomiteScythe.DisplayName: Spinning Shroomite Scythe
+	SpinningSingularityReaper.DisplayName: Spinning Singularity Reaper
+	SpinningSpectreScythe.DisplayName: Spinning Spectre Scythe
+	SpinningSpookwoodSlicer.DisplayName: Spinning Spookwood Slicer
+	SpinningThornyReaver.DisplayName: Spinning Thorny Reaver
+	SpinningTitaniumScythe.DisplayName: Spinning Titanium Scythe
+	SpinningTrueScytheOfSovereignty.DisplayName: Spinning True Scythe Of Sovereignty
+	SpinningTrueTwilightCleaver.DisplayName: Spinning True Twilight's Cleaver
+	SpinningTwilightCleaver.DisplayName: Spinning Twilight's Cleaver
+	SpinningTwilightTerror.DisplayName: Spinning Twilight's Terror
+	SpinningUnawakenedMagmaflame.DisplayName: Spinning Unawakened Magmaflame
+	ThrowableAwakenedMagmaflame.DisplayName: Throwable Awakened Magmaflame
+	ThrowableChlorophyteScythe.DisplayName: Throwable Chlorophyte Scythe
+	ThrowableScytheOfSovereignty.DisplayName: Throwable Scythe Of Sovereignty
+	ThrowableShroomiteScythe.DisplayName: Throwable Shroomite Scythe
+	ThrowableSingularityReaper.DisplayName: Throwable Singularity Reaper
+	ThrowableSpectreScythe.DisplayName: Throwable Spectre Scythe
+	ThrowableSpookwoodSlicer.DisplayName: Throwable Spookwood Slicer
+	ThrowableThornyReaver.DisplayName: Throwable Thorny Reaver
+	ThrowableTitaniumScythe.DisplayName: Throwable Titanium Scythe
+	ThrowableTrueScytheOfSovereignty.DisplayName: Throwable True Scythe Of Sovereignty
+	ThrowableTrueTwilightCleaver.DisplayName: Throwable True Twilight's Cleaver
+	ThrowableTwilightCleaver.DisplayName: Throwable Twilight's Cleaver
+	ThrowableTwilightTerror.DisplayName: Throwable Twilight's Terror
+	ThrowableUnawakenedMagmaflame.DisplayName: Throwable Unawakened Magmaflame
+	SpinningDarkharvester.DisplayName: Spinning Darkharvester
+	ThrowableDarkharvester.DisplayName: Throwable Darkharvester
+	SpinningOakheartObliterator.DisplayName: Spinning Oakheart Obliterator
+	ThrowableOakheartObliterator.DisplayName: Throwable Oakheart Obliterator
+	SpinningTerrastrikeScythe.DisplayName: Spinning Terrastrike Scythe
+	ThrowableTerrastrikeScytheProjectile.DisplayName: Throwable Terrastrike Scythe Projectile
+	SpinningAstralEdge.DisplayName: Spinning Astral Edge
+	SpinningKittyKutter.DisplayName: Spinning Kitty Kutter
+	SpinningShadowfall.DisplayName: Spinning Shadowfall
+	SpinningVitalityLifereaper.DisplayName: Spinning Vitality Lifereaper
+	ThrowableAstralEdge.DisplayName: Throwable Astral Edge
+	ThrowableKittyKutter.DisplayName: Throwable Kitty Kutter
+	ThrowableShadowfall.DisplayName: Throwable Shadowfall
+	ThrowableVitalityLifereaper.DisplayName: Throwable Vitality Lifereaper
+}
+
+Configs: {
+	DedsBossesConfig: {
+		DisplayName: Deds Bosses Config
+
+		VoiyedIsPartOfProgressionToggle: {
+			Label: Voiyed Is Part Of Progression Toggle
+			Tooltip: Enables or Disables Voiyed being part of progression
+		}
+	}
+}
+
+DamageClasses.LifetakerDamageClass.DisplayName: lifetaker damage

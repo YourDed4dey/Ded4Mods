@@ -1,0 +1,3 @@
+displayName = Ded's QOL Mod
+author = YourDed4dey
+version = 0.1

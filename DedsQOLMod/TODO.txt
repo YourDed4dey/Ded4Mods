@@ -1,0 +1,11 @@
+﻿//- When WOF dies, he drops pickaxes to make mining faster.
+
+- Brewer NPC. Sells potions. Vanilla potions and potions that teleport you to biomes.
+
+//- "F" to recall.
+
+-
+
+-
+
+-

@@ -1,0 +1,1890 @@
+
+Mods: {
+	RuinMod: {
+		Config: {
+			SpritesHeader: Sprites
+
+			RuinModDevaSpritesToggle: {
+				Label: Devastated Sprites Toggle
+				Tooltip: Enables or disables the Sprites for Devastated difficulty.
+			}
+		}
+
+		Keybinds.SpecialAbility.DisplayName: Special Ability
+
+		Items: {
+			LostFragment.DisplayName: Lost Fragment
+			LostFragmentOre.DisplayName: Lost Fragment Ore
+			AbandonedAxe.DisplayName: Abandoned Axe
+			AbandonedPickaxe.DisplayName: Abandoned Pickaxe
+			DragonHelmet.DisplayName: Dragon Helmet
+			DragonChestplate.DisplayName: Dragon Chestplate
+			DragonLeggings.DisplayName: Dragon Leggings
+			KratosHead.DisplayName: Kratos Head
+			KratosBody.DisplayName: Kratos Body
+			KratosLegs.DisplayName: Kratos Legs
+			SansHead.DisplayName: Sans Head
+			SansBody.DisplayName: Sans Body
+			SansLegs.DisplayName: Sans Legs
+			FrozenTurtleHelmet.DisplayName: Frozen Turtle Helmet
+			FrozenTurtleMail.DisplayName: Frozen Turtle Mail
+			FrozenTurtleLeggings.DisplayName: Frozen Turtle Leggings
+			TrueShadowHelmet.DisplayName: True Shadow Helmet
+			TrueShadowChestplate.DisplayName: True Shadow Scalemail
+			TrueShadowLeggings.DisplayName: True Shadow Greaves
+
+			TitanHelmet: {
+				DisplayName: Titan Helmet
+				Tooltip:
+					'''
+					15% increased ranged damage,
+					10% increased ranged critical strike chance
+					'''
+			}
+
+			TitanMail: {
+				DisplayName: Titan Mail
+				Tooltip:
+					'''
+					5% increased ranged damage,
+					10% increased ranged critical strike chance
+					'''
+			}
+
+			TitanLeggings: {
+				DisplayName: Titan Leggings
+				Tooltip: 10% increased movement speed and ranged damage
+			}
+
+			RickSanchezHead.DisplayName: Rick Sanchez Head
+			RickSanchezBody.DisplayName: Rick Sanchez Body
+			RickSanchezLegs.DisplayName: Rick Sanchez Legs
+
+			EdgeHelmet: {
+				DisplayName: Edge Helmet
+				Tooltip:
+					'''
+					5% increased summon damage
+					+1 max minions
+					'''
+			}
+
+			EdgeChestplate: {
+				DisplayName: Edge Chestplate
+				Tooltip:
+					'''
+					15% increased summon damage and critical strike chance
+					+1 max minions
+					'''
+			}
+
+			EdgeLeggings: {
+				DisplayName: Edge Leggings
+				Tooltip:
+					'''
+					20% increased movement speed and summon damage
+					+1 max minions
+					'''
+			}
+
+			SpectralHeadgear: {
+				DisplayName: Spectral Headgear
+				Tooltip:
+					'''
+					Increases maximum mana by 120
+					15% increased magic damage and critical strike chance
+					'''
+			}
+
+			SpectralArmor: {
+				DisplayName: Spectral Armor
+				Tooltip:
+					'''
+					5% increased magical damage,
+					10% reduced mana usage
+					10% increased magical critical strike chance
+					'''
+			}
+
+			SpectralSubligar: {
+				DisplayName: Spectral Subligar
+				Tooltip:
+					'''
+					10% increased movement speed and magical damage
+					Increases maximum mana by 30
+					'''
+			}
+
+			AmberHood.DisplayName: Amber Hood
+			AmberRobe.DisplayName: Amber Robe
+			EmeraldHood.DisplayName: Emerald Hood
+			EmeraldRobe.DisplayName: Emerald Robe
+			MarioHead.DisplayName: Mario Head
+			MarioBody.DisplayName: Mario Body
+			MarioLegs.DisplayName: Mario Legs
+			SonicHead.DisplayName: Sonic Head
+			SonicBody.DisplayName: Sonic Body
+			SonicLegs.DisplayName: Sonic Legs
+			AmogusHead.DisplayName: Amogus Head
+			AmogusBody.DisplayName: Amogus Body
+			AmogusPants.DisplayName: Amogus Pants
+			LihzahrdHelmet.DisplayName: Lihzahrd Helmet
+			LihzahrdChestplate.DisplayName: Lihzahrd Chestplate
+			LihzahrdLeggings.DisplayName: Lihzahrd Leggings
+			OrbOfPain.DisplayName: Orb of Pain
+			GamingEmblem.DisplayName: Gaming Emblem
+			ReinforcedGem.DisplayName: Reinforced Gem
+			DiamondHelmet.DisplayName: Diamond Helmet
+			DiamondChestplate.DisplayName: Diamond Chestplate
+			DiamondLeggings.DisplayName: Diamond Leggings
+			RubyHelmet.DisplayName: Ruby Helmet
+			RubyChestplate.DisplayName: Ruby Chestplate
+			RubyLeggings.DisplayName: Ruby Leggings
+			AmethystHelmet.DisplayName: Amethyst Helmet
+			AmethystChestplate.DisplayName: Amethyst Chestplate
+			AmethystLeggings.DisplayName: Amethyst Leggings
+			SapphireHelmet.DisplayName: Sapphire Helmet
+			SapphireChestplate.DisplayName: Sapphire Chestplate
+			SapphireLeggings.DisplayName: Sapphire Leggings
+			TopazHelmet.DisplayName: Topaz Helmet
+			TopazChestplate.DisplayName: Topaz Chestplate
+			TopazLeggings.DisplayName: Topaz Leggings
+			DummyMask.DisplayName: Dummy Mask
+			MechanicalBrainMask.DisplayName: Mechanical Brain Mask
+			YaquisButterfly.DisplayName: Yaqui's Butterfly
+			YaquisBlueButterfly.DisplayName: Yaqui's Blue Butterfly
+			YaquisGreenButterfly.DisplayName: Yaqui's Green Butterfly
+			YaquisOrangeButterfly.DisplayName: Yaqui's Orange Butterfly
+			YaquisPurpleButterfly.DisplayName: Yaqui's Purple Butterfly
+			YaquisRedButterfly.DisplayName: Yaqui's Red Butterfly
+			YaquisYellowButterfly.DisplayName: Yaqui's Yellow Butterfly
+			MechanicalHook.DisplayName: Mechanical Hook
+			StarHook.DisplayName: Star Hook
+
+			EyeSpeculum: {
+				DisplayName: Eye Speculum
+				Tooltip: Summons an eye that always watches
+			}
+
+			Quesadilla.DisplayName: Quesadilla
+			SoulPotion.DisplayName: Soul Potion
+
+			SuspiciousLookingSkull: {
+				DisplayName: Suspicious Looking Skull
+				Tooltip:
+					'''
+					Summons The Mechanical Brain 
+					Not consumable
+					'''
+			}
+
+			DarkEssence.DisplayName: Dark Essence
+			EssenceOfDeath.DisplayName: Essence of Death
+
+			SoulOfBlight: {
+				DisplayName: Soul of Blight
+				Tooltip: "'The essence of infected creatures'"
+			}
+
+			LostFragmentHandle.DisplayName: Lost Fragment Handle
+
+			MechBrainBossBag: {
+				DisplayName: Treasure Bag (Mechanical Brain)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			ConverterCraftingStation: {
+				DisplayName: Converter
+				Tooltip: Converts ores and bars
+			}
+
+			MechanicalBrainRelic.DisplayName: Mechanical Brain Relic
+			MechanicalBrainTrophy.DisplayName: Mechanical Brain Trophy
+			Yaquiturimisha.DisplayName: Yaquiturimisha
+			BarkBarkChain.DisplayName: Woof-Woof-Bark-Bark
+			DirtyBrotherKiller.DisplayName: Dirty Brother Killer
+			AbandonedScythe.DisplayName: Abandoned Scythe
+			Lumpitishious.DisplayName: Lumpitishious
+			StarIndignation.DisplayName: Star Indignation
+			RaygunMKII.DisplayName: Raygun MK II
+			ThePortalGun.DisplayName: The Portal Gun
+			StarButcherer.DisplayName: Star Butcherer
+			Raygun.DisplayName: Raygun
+			HammerheadMorty.DisplayName: Hammerhead Morty
+			AmberSword.DisplayName: Amber Sword
+			AmethystSword.DisplayName: Amethyst Sword
+			DiamondSword.DisplayName: Diamond Sword
+			EmeraldSword.DisplayName: Emerald Sword
+			RubySword.DisplayName: Ruby Sword
+			SapphireSword.DisplayName: Sapphire Sword
+
+			VortexTriCannon: {
+				DisplayName: Vortex TriCannon
+				Tooltip: "'Send your financial worries to space!'"
+			}
+
+			Dukezooka: {
+				DisplayName: Duke zooka
+				Tooltip:
+					'''
+					'A happy and innocent mini-duke fires at your enemies'
+					Increases damage and use-time on use
+					Max damage cap: 3000
+					'''
+			}
+
+			SammyTheBow: {
+				DisplayName: Sammy The Bow
+				Tooltip: "'I am Sammy, and I am a bow'"
+			}
+
+			PrimalSkullForce: {
+				DisplayName: Primal Skull Force
+				Tooltip: "'Forces of mechanical power shoot trough this gun'"
+			}
+
+			AmethystPistol.DisplayName: Amethyst Pistol
+			SapphireBow.DisplayName: Sapphire Bow
+
+			StarsScreams: {
+				DisplayName: Star's Screams
+				Tooltip: "'The screams of the stars help you'"
+			}
+
+			BookOfBreath: {
+				DisplayName: "Book of Breath "
+				Tooltip: "'The Breath of Spazmatism is in this book'"
+			}
+
+			AmberSpellBook.DisplayName: Amber Spell Book
+			EmeraldSpellBook.DisplayName: Emerald Spell Book
+
+			ProbeWhip: {
+				DisplayName: Probe Whip
+				Tooltip:
+					'''
+					7 summon tag damage
+					Your summons will focus struck enemies
+					'''
+			}
+
+			PaladinGreaves.DisplayName: Paladin Greaves
+			PaladinMask.DisplayName: Paladin Mask
+			PaladinPlateMail.DisplayName: Paladin Platemail
+
+			DefenderChestplate: {
+				DisplayName: Defender Chestplate
+				Tooltip:
+					'''
+					15% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 4
+					'''
+			}
+
+			DefenderHelmet: {
+				DisplayName: Defender Mask
+				Tooltip:
+					'''
+					12% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 3
+					'''
+			}
+
+			DefenderLeggings: {
+				DisplayName: Defender Leggings
+				Tooltip:
+					'''
+					5% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 3
+					'''
+			}
+
+			GuardChestplate: {
+				DisplayName: Guard Chestplate
+				Tooltip:
+					'''
+					18% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 4
+					'''
+			}
+
+			GuardHelmet: {
+				DisplayName: Guard Mask
+				Tooltip:
+					'''
+					6% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 2
+					'''
+			}
+
+			GuardLeggings: {
+				DisplayName: Guard Leggings
+				Tooltip:
+					'''
+					4% increased contact damage and critical strike chance
+					Increased contact damage armor penetration by 2
+					'''
+			}
+
+			GemBossMask.DisplayName: Gemmonide Mask
+
+			TrafficConeHat: {
+				DisplayName: Traffic Cone Hat
+				Tooltip: "'Meant to prevent accidents, repurposed to a hat.'"
+			}
+
+			Gemminode: {
+				DisplayName: Gemminode
+				Tooltip:
+					'''
+					Summons Gemmonide
+					'I will seek eternal revenge if you kill me...'
+					Not consumable
+					'''
+			}
+
+			GemBossPetItem: {
+				DisplayName: Gem Pork
+				Tooltip: Summons a Gemmonide Jr.
+			}
+
+			MiniSkull: {
+				DisplayName: Mini-Skull
+				Tooltip: "'Where did the skull come from?'"
+			}
+
+			UnlimitedBoneArrow: {
+				DisplayName: Unlimited Bone Arrow
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedChlorophyteArrow: {
+				DisplayName: Unlimited Chlorophyte Arrow
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedCursedArrow: {
+				DisplayName: Unlimited Cursed Arrow
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedFlamingArrow: {
+				DisplayName: Unlimited Flaming Arrow
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedFrostburnArrow: {
+				DisplayName: Unlimited Frostburn Arrow
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedHellFireArrow: {
+				DisplayName: Unlimited Hell Fire Arrow
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedHolyArrow: {
+				DisplayName: Unlimited Holy Arrow
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedHUnholyArrow: {
+				DisplayName: Unlimited Unholy Arrow
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedIchorArrow: {
+				DisplayName: Unlimited Ichor Arrow
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedJestersArrow: {
+				DisplayName: Unlimited Jester's Arrow
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedLuminiteArrow: {
+				DisplayName: Unlimited Luminite Arrow
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedVenomArrow: {
+				DisplayName: Unlimited Venom Arrow
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedWoodenArrow: {
+				DisplayName: Unlimited Wooden Arrow
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedBlueFlare: {
+				DisplayName: Unlimited Blue Flare
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedCandyCorn: {
+				DisplayName: Unlimited Candy Corn
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedChlorophyteBullet: {
+				DisplayName: Unlimited Chlorophyte Bullet
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedCrystalBullet: {
+				DisplayName: Unlimited Crystal Bullet
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedCursedBullet: {
+				DisplayName: Unlimited Cursed Bullet
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedExplodingBullet: {
+				DisplayName: Unlimited Exploding Bullet
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedFlare: {
+				DisplayName: Unlimited Flare
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedGel: {
+				DisplayName: Unlimited Gel
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedGoldenBullet: {
+				DisplayName: Unlimited Golden Bullet
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedHighVelocityBullet: {
+				DisplayName: Unlimited High Velocity Bullet
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedIchorBullet: {
+				DisplayName: Unlimited Ichor Bullet
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedJackOLantern: {
+				DisplayName: Unlimited Explosive Jack 'O Lantern
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedLuminiteBullet: {
+				DisplayName: Unlimited Luminite Bullet
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedMeteorShot: {
+				DisplayName: Unlimited Meteor Shot
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedNail: {
+				DisplayName: Unlimited Nail
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedNanoBullet: {
+				DisplayName: Unlimited Nano Bullet
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedPartyBullet: {
+				DisplayName: Unlimited Party Bullet
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedSilverBullet: {
+				DisplayName: Unlimited Silver Bullet
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedStake: {
+				DisplayName: Unlimited Stake
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedStars: {
+				DisplayName: Unlimited Fallen Star
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedTungstenBullet: {
+				DisplayName: Unlimited Tungsten Bullet
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedVenomBullet: {
+				DisplayName: Unlimited Venom Bullet
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedCrystalDart: {
+				DisplayName: Unlimited Crystal Dart
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedCursedDart: {
+				DisplayName: Unlimited Cursed Dart
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedIchorDart: {
+				DisplayName: Unlimited Ichor Dart
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedPoisonDart: {
+				DisplayName: Unlimited Poison Dart
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedClusterRocketI: {
+				DisplayName: Unlimited Cluster Rocket I
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedClusterRocketII: {
+				DisplayName: Unlimited Cluster Rocket II
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedDryRocket: {
+				DisplayName: Unlimited Dry Rocket
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedHoneyRocket: {
+				DisplayName: Unlimited Honey Rocket
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedLavaRocket: {
+				DisplayName: Unlimited Lava Rocket
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedMiniNukeI: {
+				DisplayName: Unlimited Mini Nuke I
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedMiniNukeII: {
+				DisplayName: Unlimited Mini Nuke II
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedRocketI: {
+				DisplayName: Unlimited Rocket I
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedRocketII: {
+				DisplayName: Unlimited Rocket II
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedRocketIII: {
+				DisplayName: Unlimited Rocket III
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedRocketIV: {
+				DisplayName: Unlimited Rocket IV
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedWetRocket: {
+				DisplayName: Unlimited Wet Rocket
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedBlueSolution: {
+				DisplayName: Unlimited Blue Solution
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedDarkBlueSolution: {
+				DisplayName: Unlimited Dark Blue Solution
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedGreenSolution: {
+				DisplayName: Unlimited Green Solution
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedPurpleSolution: {
+				DisplayName: Unlimited Purple Solution
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			UnlimitedRedSolution: {
+				DisplayName: Unlimited Red Solution
+				Tooltip: "[c/FFFF00:Is there a limit?]"
+			}
+
+			GemBossBossBag: {
+				DisplayName: Treasure Bag (Gemmonide)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			GemBossRelic.DisplayName: Gemmonide Relic
+			GemBossTrophy.DisplayName: Gemmonide Trophy
+
+			GemAnvil: {
+				DisplayName: Gem Anvil
+				Tooltip: Does special things
+			}
+
+			UnlimitedAmmoReservationPotion: {
+				DisplayName: Unlimited Ammo Reservation Potion
+				Tooltip:
+					'''
+					20% chance to not consume ammo
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedArcheryPotion: {
+				DisplayName: Unlimited Archery Potion
+				Tooltip:
+					'''
+					20% increased arrow speed and damage
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedBattlePotion: {
+				DisplayName: Unlimited Battle Potion
+				Tooltip:
+					'''
+					Increases enemy spawn rate
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedBuilderPotion: {
+				DisplayName: Unlimited Builder Potion
+				Tooltip:
+					'''
+					Increases placement speed and range
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedCalmingPotion: {
+				DisplayName: Unlimited Calming Potion
+				Tooltip:
+					'''
+					Decreases enemy spawn rate
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedDangersensePotion: {
+				DisplayName: Unlimited Dangersense Potion
+				Tooltip:
+					'''
+					Allows you to see nearby danger sources
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedFeatherfallPotion: {
+				DisplayName: Unlimited Featherfall Potion
+				Tooltip:
+					'''
+					Slows falling speed
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedFlipperPotion: {
+				DisplayName: Unlimited Flipper Potion
+				Tooltip:
+					'''
+					Lets you move swiftly in liquids
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedGillsPotion: {
+				DisplayName: Unlimited Gills Potion
+				Tooltip:
+					'''
+					Breathe water instead of air
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedGravitationPotion: {
+				DisplayName: Unlimited Gravitation Potion
+				Tooltip:
+					'''
+					Allows the control of gravity
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedHunterPotion: {
+				DisplayName: Unlimited Hunter Potion
+				Tooltip:
+					'''
+					Shows the location of enemies
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedInvisibilityPotion: {
+				DisplayName: Unlimited Invisibility Potion
+				Tooltip:
+					'''
+					Grants invisibility and lowers the spawn rate of enemies
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedIronSkinPotion: {
+				DisplayName: Unlimited Iron skin Potion
+				Tooltip:
+					'''
+					Increase defense by 8
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedMiningPotion: {
+				DisplayName: Unlimited Mining Potion
+				Tooltip:
+					'''
+					Increases mining speed by 25%
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedNightOwlPotion: {
+				DisplayName: Unlimited Night Owl Potion
+				Tooltip:
+					'''
+					Increases night vision
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedObsidianSkinPotion: {
+				DisplayName: Unlimited Obsidian Skin Potion
+				Tooltip:
+					'''
+					Provides immunity to lava
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedRedPotion: {
+				DisplayName: Unlimited Red Potion
+				Tooltip:
+					'''
+					'Only for those who are worthy'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedShinePotion: {
+				DisplayName: Unlimited Shine Potion
+				Tooltip:
+					'''
+					Emits an aura of light
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedSpelunkerPotion: {
+				DisplayName: Unlimited Spelunker Potion
+				Tooltip:
+					'''
+					Shows the location of treasure and ore
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedSummoningPotion: {
+				DisplayName: Unlimited Summoning Potion
+				Tooltip:
+					'''
+					Increases your max number of minions by 1
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedSwiftnessPotion: {
+				DisplayName: Unlimited Swiftness Potion
+				Tooltip:
+					'''
+					25% increased movement speed
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedThornsPotion: {
+				DisplayName: Unlimited Thorns Potion
+				Tooltip:
+					'''
+					Attackers also take damage
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedTitanPotion: {
+				DisplayName: Unlimited Titan Potion
+				Tooltip:
+					'''
+					Increases knockback
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedWaterWalkingPotion: {
+				DisplayName: Unlimited Water Walking Potion
+				Tooltip:
+					'''
+					Allows the ability to walk on water
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedFlaskofCursedFlames: {
+				DisplayName: Unlimited Flask of Cursed Flames
+				Tooltip:
+					'''
+					Melee and Whip attacks inflict enemies with cursed flames
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedFlaskofFire: {
+				DisplayName: Unlimited Flask of Fire
+				Tooltip:
+					'''
+					Melee and Whip attacks set enemies on fire
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedFlaskofGold: {
+				DisplayName: Unlimited Flask of Gold
+				Tooltip:
+					'''
+					Melee and Whip attacks make enemies drop more gold
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedFlaskofIchor: {
+				DisplayName: Unlimited Flask of Ichor
+				Tooltip:
+					'''
+					Melee and Whip attacks decrease enemies defense
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedFlaskofNanites: {
+				DisplayName: Unlimited Flask of Nanites
+				Tooltip:
+					'''
+					Melee and Whip attacks confuse enemies
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedFlaskofParty: {
+				DisplayName: Unlimited Flask of Party
+				Tooltip:
+					'''
+					Melee and Whip attacks cause confetti to appear
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedFlaskofPoison: {
+				DisplayName: Unlimited Flask of Poison
+				Tooltip:
+					'''
+					Melee and Whip attacks poison enemies
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedFlaskofVenom: {
+				DisplayName: Unlimited Flask of Venom
+				Tooltip:
+					'''
+					Melee and Whip attacks inflict Venom on enemies
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedAle: {
+				DisplayName: Unlimited Ale
+				Tooltip:
+					'''
+					Minor improvements to melee stats & lowered defense
+					'Down the hatch!'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedBananaSplit: {
+				DisplayName: Unlimited Banana Split
+				Tooltip:
+					'''
+					Medium improvements to all stats
+					'Make like a banana and split!'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedBowlofSoup: {
+				DisplayName: Unlimited Bowl of Soup
+				Tooltip:
+					'''
+					Medium improvements to all stats
+					'Simple, yet refreshing.'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedBunnyStew: {
+				DisplayName: Unlimited Bunny Stew
+				Tooltip:
+					'''
+					Minor improvements to all stats
+					'This one's luck has run out.'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedChristmasPudding: {
+				DisplayName: Unlimited Christmas Pudding
+				Tooltip:
+					'''
+					Major improvements to all stats
+					'A cozy treat by the fireplace.'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedCreamSoda: {
+				DisplayName: Unlimited Cream Soda
+				Tooltip:
+					'''
+					Medium improvements to all stats
+					'It's so fizzy!'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedGrubSoup: {
+				DisplayName: Unlimited Grub Soup
+				Tooltip:
+					'''
+					Medium improvements to all stats
+					'Grub's up!'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedIceCream: {
+				DisplayName: Unlimited Ice Cream
+				Tooltip:
+					'''
+					Medium improvements to all stats
+					'Eat it before it melts!'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedMilkShake: {
+				DisplayName: Unlimited Milkshake
+				Tooltip:
+					'''
+					Major improvements to all stats
+					'It brings the boys to the yard!'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedPho: {
+				DisplayName: Unlimited Pho
+				Tooltip:
+					'''
+					Medium improvements to all stats
+					'Pho sho...'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedSake: {
+				DisplayName: Unlimited Sake
+				Tooltip:
+					'''
+					Minor improvements to melee stats & lowered defense
+					'Drink too much of this, and you become karate master.'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedHeartreachPotion: {
+				DisplayName: Unlimited Heartreach Potion
+				Tooltip:
+					'''
+					Increases pickup range for life hearts
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedLifeforcePotion: {
+				DisplayName: Unlimited Lifeforce Potion
+				Tooltip:
+					'''
+					Increases max life by 20%
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedRegenerationPotion: {
+				DisplayName: Unlimited Regeneration Potion
+				Tooltip:
+					'''
+					Provides life regeneration
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedMagicPowerPotion: {
+				DisplayName: Unlimited Magic Power Potion
+				Tooltip:
+					'''
+					20% increased magic damage
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedManaRegenerationPotion: {
+				DisplayName: Unlimited Mana Regeneration Potion
+				Tooltip:
+					'''
+					Increased mana regeneration
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedCratePotion: {
+				DisplayName: Unlimited Crate Potion
+				Tooltip:
+					'''
+					Increases chance to get a crate
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedEndurancePotion: {
+				DisplayName: Unlimited Endurance Potion
+				Tooltip:
+					'''
+					Reduces damage taken by 10%
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedFishingPotion: {
+				DisplayName: Unlimited Fishing Potion
+				Tooltip:
+					'''
+					Increases fishing power
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedGreaterLuckPotion: {
+				DisplayName: Unlimited Greater Luck Potion
+				Tooltip:
+					'''
+					Increases the Luck of the user
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedInfernoPotion: {
+				DisplayName: Unlimited Inferno Potion
+				Tooltip:
+					'''
+					Ignites nearby enemies
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedLesserLuckPotion: {
+				DisplayName: Unlimited Lesser Luck Potion
+				Tooltip:
+					'''
+					Increases the Luck of the user
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedLuckPotion: {
+				DisplayName: Unlimited Luck Potion
+				Tooltip:
+					'''
+					Increases the Luck of the user
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedRagePotion: {
+				DisplayName: Unlimited Rage Potion
+				Tooltip:
+					'''
+					Increases critical chance by 10%
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedSonarPotion: {
+				DisplayName: Unlimited Sonar Potion
+				Tooltip:
+					'''
+					Detects hooked fish
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedWarmthPotion: {
+				DisplayName: Unlimited Warmth Potion
+				Tooltip:
+					'''
+					Reduces damage from cold sources
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedWrathPotion: {
+				DisplayName: Unlimited Wrath Potion
+				Tooltip:
+					'''
+					Increases damage by 10%
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedAppleJuice: {
+				DisplayName: Unlimited Apple Juice
+				Tooltip:
+					'''
+					Minor improvements to all stats
+					'Hungry for Apples?'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedBloodyMoscato: {
+				DisplayName: Unlimited Bloody Moscato
+				Tooltip:
+					'''
+					Minor improvements to all stats
+					'Not really blood... or is it?'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedCartonofMilk: {
+				DisplayName: Unlimited Carton of Milk
+				Tooltip:
+					'''
+					Minor improvements to all stats
+					'For strong, healthy bones'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedCoffee: {
+				DisplayName: Unlimited Coffee
+				Tooltip:
+					'''
+					Medium improvements to all stats
+					'Hello darkness, my old friend'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedFrozenBananaDaiquiri: {
+				DisplayName: Unlimited Frozen Banana Daiquiri
+				Tooltip:
+					'''
+					Minor improvements to all stats
+					'Yellow and mellow'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedFruitJuice: {
+				DisplayName: Unlimited Fruit Juice
+				Tooltip:
+					'''
+					Minor improvements to all stats
+					'With %5 real fruit juice!'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedGrapeJuice: {
+				DisplayName: Unlimited Grape Juice
+				Tooltip:
+					'''
+					Major improvements to all stats
+					'Sugar. Water. Purple'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedLemonade: {
+				DisplayName: Unlimited Lemonade
+				Tooltip:
+					'''
+					Minor improvements to all stats
+					'...make lemonade!'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedPeachSangria: {
+				DisplayName: Unlimited Peach Sangria
+				Tooltip:
+					'''
+					Minor improvements to all stats
+					'Life's a peach'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedPiñaColada: {
+				DisplayName: Unlimited Piña Colada
+				Tooltip:
+					'''
+					Minor improvements to all stats
+					'If you like piña coladas and getting caught in the rain'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedPrismaticPunch: {
+				DisplayName: Unlimited Prismatic Punch
+				Tooltip:
+					'''
+					Medium improvements to all stats
+					'Feel the rainbow, taste the crystal!'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedSmoothieofDarkness: {
+				DisplayName: Unlimited Smoothie of Darkness
+				Tooltip:
+					'''
+					Minor improvements to all stats
+					'Come to the dark side, we have smoothies'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedTeacup: {
+				DisplayName: Unlimited Teacup
+				Tooltip:
+					'''
+					Minor improvements to all stats
+					'A must-have for tea parties'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			UnlimitedTropicalSmoothie: {
+				DisplayName: Unlimited Tropical Smoothie
+				Tooltip:
+					'''
+					Minor improvements to all stats
+					'Real smooth'
+					[c/FFFF00:How much can you drink?]
+					'''
+			}
+
+			LuminiteShield.DisplayName: Luminite Shield
+			MeowShield.DisplayName: Meow Shield
+			StellarShield.DisplayName: Stellar Shield
+			ZenithShield.DisplayName: Zenith Shield
+			AdamantiteShield.DisplayName: Adamantite Shield
+			AegisShield.DisplayName: Aegis Shield
+			BrokenHeroShield.DisplayName: Broken Hero Shield
+			ChlorophyteShield.DisplayName: Chlorophyte Shield
+			CobaltShield.DisplayName: Cobalt Shield
+			HallowedShield.DisplayName: Hallowed Shield
+			Horseman_sShield.DisplayName: Horseman's Shield
+			InfluxShield.DisplayName: Influx Shield
+			MythrilShield.DisplayName: Mythril Shield
+			OrichalcumShield.DisplayName: Orichalcum Shield
+			PalladiumShield.DisplayName: Palladium Shield
+			PearlwoodShield.DisplayName: Pearlwood Shield
+			SeedShield.DisplayName: Seed Shield
+			ShieldOfLife.DisplayName: Shield Of Life
+			ShieldOfTimber.DisplayName: Shield of Timber
+			ShroomiteShield.DisplayName: Shroomite Shield
+			SpectreShield.DisplayName: Spectre Shield
+			SpookyWoodShield.DisplayName: Spooky Wood Shield
+			TerraShield.DisplayName: Terra Shield
+			TitaniumShield.DisplayName: Titanium Shield
+			TrueAegisShield.DisplayName: True Aegis Shield
+			TrueLunarShield.DisplayName: True Lunar Shield
+			BeeShield.DisplayName: Bee Shield
+			BorealWoodShield.DisplayName: Boreal Wood Shield
+			CactusShield.DisplayName: Cactus Shield
+			CopperShield.DisplayName: Copper Shield
+			CrimtaneShield.DisplayName: Crimtane Shield
+			DemoniteShield.DisplayName: Demonite Shield
+			EbonwoodShield.DisplayName: Ebonwood Shield
+			EnchantedShield.DisplayName: Enchanted Shield
+			GoldShield.DisplayName: Gold Shield
+			GrassShield.DisplayName: Grass Shield
+			HellStoneShield.DisplayName: Hellstone Shield
+			IronShield.DisplayName: Iron Shield
+			LeadShield.DisplayName: Lead Shield
+			LunarShield.DisplayName: Lunar Shield
+			MagicShield.DisplayName: Magic Shield
+			MeteoriteShield.DisplayName: Meteorite Shield
+			PalmWoodShield.DisplayName: Palm Wood Shield
+			PlatinumShield.DisplayName: Platinum Shield
+			ReinforcedGemShield.DisplayName: Reinforced Gem
+			RichMahoganyShield.DisplayName: Rich Mahogany Shield
+			ShadewoodShield.DisplayName: Shadewood Shield
+			SilverShield.DisplayName: Silver Shield
+			StarShield.DisplayName: Star Shield
+			TinShield.DisplayName: Tin Shield
+			TungstenShield.DisplayName: Tungsten Shield
+			WoodShield.DisplayName: Wood Shield
+		}
+
+		ItemToolTip: {
+			DragonHelmet:
+				'''
+				15% increased melee speed and damage
+				15% increased critical strike chance
+				'''
+			DragonChestplate:
+				'''
+				10% increased critical strike chance
+				5% increased melee damage
+				'''
+			DragonLeggings:
+				'''
+				12% increased movement speed
+				2% increased melee speed
+				'''
+			KratosHead: 15% increased gamer damage
+			KratosBody: 15% increased gamer damage
+			KratosLegs:
+				'''
+				15% increased gamer damage
+				50% increased movement speed
+				'''
+			SansHead: 15% increased gamer damage and critical strike chance
+			SansBody:
+				'''
+				13% increased gamer damage and critical strike chance
+				20% increased movement speed
+				'''
+			SansLegs:
+				'''
+				7% increased gamer damage and critical strike chance
+				15% increased movement speed
+				'''
+			FrozenTurtleHelmet:
+				'''
+				5% increased whip range multiplier
+				15% increased damage
+				+20 max mana
+				+2 max minions
+				'''
+			FrozenTurtleMail:
+				'''
+				5% increased whip range multiplier
+				15% increased damage
+				+15 max mana
+				+2 max minions
+				'''
+			FrozenTurtleLeggings:
+				'''
+				5% increased whip range multiplier
+				15% increased movement speed
+				Increased armor penetration
+				+10 max mana
+				'''
+			TrueShadowHelmet:
+				'''
+				15% increased melee speed and damage
+				15% increased critical strike chance
+				'''
+			TrueShadowChestplate: 10% increased critical strike chance
+			TrueShadowLeggings: 25% increased movement speed
+			TitanHelmet:
+				'''
+				15% increased ranged damage,
+				10% increased ranged critical strike chance
+				'''
+			TitanMail:
+				'''
+				5% increased ranged damage,
+				10% increased ranged critical strike chance
+				'''
+			TitanLeggings: 10% increased movement speed and ranged damage
+			RickSanchezHead: 15% increased gamer damage and critical strike chance
+			RickSanchezBody:
+				'''
+				5% increased gamer damage
+				10% increased gamer critical strike chance
+				'''
+			RickSanchezLegs:
+				'''
+				10% increased gamer damage
+				12% increased movement speed
+				'''
+			EdgeHelmet:
+				'''
+				5% increased summon damage
+				+1 max minions
+				'''
+			EdgeChestplate:
+				'''
+				15% increased summon damage and critical strike chance
+				+1 max minions
+				'''
+			EdgeLeggings:
+				'''
+				20% increased movement speed and summon damage
+				+1 max minions
+				'''
+			SpectralHeadgear:
+				'''
+				Increases maximum mana by 120
+				15% increased magic damage and critical strike chance
+				'''
+			SpectralArmor:
+				'''
+				5% increased magical damage,
+				10% reduced mana usage
+				10% increased magical critical strike chance
+				'''
+			SpectralSubligar:
+				'''
+				10% increased movement speed and magical damage
+				Increases maximum mana by 30
+				'''
+			AmberHood:
+				'''
+				15% increased magic damage
+				+10 max mana
+				'''
+			AmberRobe:
+				'''
+				5% increased magic damage
+				Reduces mana usage by 15%
+				+75 max mana
+				'''
+			EmeraldHood:
+				'''
+				15% increased magic damage
+				+10 max mana
+				'''
+			EmeraldRobe:
+				'''
+				5% increased magic damage
+				Reduces mana usage by 15%
+				+75 max mana
+				'''
+			MarioHead:
+				'''
+				2% increased gamer damage
+				25% increased movement speed
+				'''
+			MarioBody:
+				'''
+				2% increased gamer damage
+				25% increased movement speed
+				'''
+			MarioLegs:
+				'''
+				2% increased gamer damage
+				25% increased movement speed
+				'''
+			SonicHead:
+				'''
+				2% increased gamer damage
+				25% increased movement speed
+				'''
+			SonicBody:
+				'''
+				2% increased gamer damage
+				25% increased movement speed
+				'''
+			SonicLegs:
+				'''
+				2% increased gamer damage
+				25% increased movement speed
+				'''
+			AmogusHead:
+				'''
+				7% increased gamer damage
+				Critical strike chance increased by 4% in all gamer class weapons
+				'''
+			AmogusBody: 7% increased gamer damage
+			AmogusPants: 7% increased gamer damage
+			LihzahrdHelmet:
+				'''
+				5% increased magical damage
+				Increases maximum mana by 55
+				10% reduced mana use
+				'''
+			LihzahrdChestplate: 8% increased magical damage and critical strike chance
+			LihzahrdLeggings: 8% increased movement speed and magical damage
+			OrbOfPain:
+				'''
+				A orb appears in all of the player's cursors (Only in yours if solo)
+				600 dps
+				'''
+			GamingEmblem: 15% increased gamer damage
+			ReinforcedGemShield:
+				'''
+				6 defense
+				Allows the player to dash into the enemy
+				Double tap a direction
+				'''
+			DiamondHelmet: 5% increased melee critical strike chance
+			DiamondChestplate:
+				'''
+				5% increased melee damage
+				+5 defense
+				'''
+			DiamondLeggings: 5% increased melee speed
+			RubyHelmet: 14% increased melee critical strike chance
+			RubyChestplate: 14% increased melee damage
+			RubyLeggings: 14% increased melee and movement speed
+			AmethystHelmet: 8% increased ranged damage
+			AmethystChestplate: 8% increased ranged damage
+			AmethystLeggings:
+				'''
+				8% increased ranged damage
+				15% increased movement speed
+				'''
+			SapphireHelmet: 8% increased ranged damage
+			SapphireChestplate: 8% increased ranged damage
+			SapphireLeggings:
+				'''
+				8% increased ranged damage
+				15% increased movement speed
+				'''
+			TopazHelmet: 20% increased summon damage
+			TopazChestplate: +2 max minions
+			TopazLeggings: 10% increased summon damage
+			YaquisButterfly:
+				'''
+				27% increased melee, gamer, ranged, and magic damage
+				12% increased melee, gamer, ranged, and magic critical strike chance
+				122% increased summon damage and critical strike chance
+				20% chance to not consume ammo
+				12% increased melee knockback
+				Increased life regeneration
+				Provides same effects as a mana flower
+
+				84 defense
+				+4 max minions
+				'''
+			YaquisBlueButterfly:
+				'''
+				22% increased ranged damage
+				7% increased ranged critical strike chance
+				20% chance to not consume ammo
+				24 defense
+				'''
+			YaquisGreenButterfly:
+				'''
+				22% increased gamer damage
+				7% increased gamer critical strike chance
+				17 defense
+				'''
+			YaquisOrangeButterfly:
+				'''
+				22% increased melee damage
+				7% increased melee critical strike chance
+
+				15 defense
+				Increased life regeneration
+				'''
+			YaquisPurpleButterfly:
+				'''
+				22% increased magic damage
+				7% increased magic critical strike chance
+				Provides same effects as a mana flower
+				14 defense
+				'''
+			YaquisRedButterfly:
+				'''
+				12% increased melee knockback
+				5% increased melee, gamer, ranged, and magic damage and critical strike chance
+				100% increased summon damage and critical strike chance
+				+1 max minions
+				'''
+			YaquisYellowButterfly:
+				'''
+				22% increased summon damage
+				14 defense
+				+3 max minions
+				'''
+			EyeSpeculum: Summons an eye that always watches
+			Quesadilla: Major improvements to all stats
+			SoulPotion:
+				'''
+				Grants immortality
+				'Is it really worth it?'
+				(Quick Healing wont enable the 'Soul Manipulation' buff, you have to do it with your main hand or by quick buffing)
+				'''
+			SuspiciousLookingSkull:
+				'''
+				Summons The Mechanical Brain 
+				Not consumable
+				'''
+			DarkEssence: "'Obtained by the darkest creatures'"
+			EssenceOfDeath: "'The reincarnation of death right in your hands'"
+			SoulOfBlight: "'The essence of infected creatures'"
+			MechBrainBossBag: "{$CommonItemTooltip.RightClickToOpen}"
+			ConverterCraftingStation: Converts ores and bars
+			Yaquiturimisha:
+				'''
+				Shoots butterflies that follow your cursor (when cursor is close to the butterflies)
+				'The peace reminds you of a rain of butterflies'
+				'''
+			BarkBarkChain: "'High velocity dogs make a chain around your enemies'"
+			DirtyBrotherKiller: "'You feel like you are going to have a bad time'"
+			AbandonedScythe:
+				'''
+				Who would abandon this?
+				Right click to throw scythe
+				Inflicts 'Cursed Inferno' debuff on enemies for 3 seconds
+				'''
+			ThePortalGun: "'Snap back to reality'"
+			HammerheadMorty: "'Aww Jeez!'"
+			VortexTriCannon: "'Send your financial worries to space!'"
+			Dukezooka:
+				'''
+				'A happy and innocent mini-duke fires at your enemies'
+				Increases damage and use-time on use
+				Max damage cap: 3000
+				'''
+			SammyTheBow: "'I am Sammy, and I am a bow'"
+			PrimalSkullForce: "'Forces of mechanical power shoot trough this gun'"
+			StarsScreams: "'The screams of the stars help you'"
+			BookOfBreath: "'The Breath of Spazmatism is in this book'"
+			ProbeWhip:
+				'''
+				7 summon tag damage
+				Your summons will focus struck enemies
+				'''
+			AbandonedPickaxe: Can mine Meteorite
+		}
+
+		ItemSetBonus: {
+			DragonSet: 21% increased melee and movement speed
+			KratosSet: 30% increased gamer damage
+			SansSet: 30% increased gamer damage
+			FrozenTurtleSet:
+				'''
+				10% increased damage, melee speed and critical strike chance
+				Increased life regeneration
+				Reduces damage taken by 25%
+				+1 max minion
+				'''
+			TrueShadowSet:
+				'''
+
+				Greatly increased life regen
+				Grants immunity to most debuffs debuffs
+				'''
+			TitanSet: 25% chance to not consume ammo
+			RickSanchezSet: 21% increased gamer damage
+			EdgeSet:
+				'''
+				40% increased whip range multiplier
+				+3 max minions
+				'''
+			SpectralSet: 23% reduced mana usage
+			AmberSet: 40% increased magic damage
+			EmeraldSet: 5% increased magic damage
+			MarioSet:
+				'''
+				4% increased gamer damage
+				Greatly increased life regen
+				'''
+			SonicSet: 25% increased movement speed
+			DiamondSet: 10% increased melee damage
+			RubySet: 25% increased melee damage
+			AmethystSet: 10% increased ranged damage and critical strike chance
+			SapphireSet: 10% increased ranged damage and critical strike chance
+			TopazSet:
+				'''
+				Increases whip range by 75% and speed by 40%,
+				Increases minion damage by 15%
+				'''
+			LihzahrdSet: Increases maximum mana by 20
+			AmogusSet: 10% extra gamer damage
+			GuardSet: Maximum mana increased by 20
+			DefenderSet: Has a chance to dodge any incoming attacks
+		}
+
+		Buffs: {
+			SoulBuff: {
+				DisplayName: Soul Manipulation
+				Description:
+					'''
+					'The power of the souls is within you!'
+					Grants immortality
+					'''
+			}
+
+			OcramsEyeBuff: {
+				DisplayName: Red Eye
+				Description: "'I am always watching'"
+			}
+
+			GemBossPetBuff: {
+				DisplayName: Gemmonide Jr.
+				Description: "'My dad is going to kill you!'"
+			}
+
+			BadSugarRush: {
+				DisplayName: Sugar Rushed
+				Description:
+					'''
+					Decreases movement speed by 50%
+					Decreases defense and life regeneration
+					'''
+			}
+
+			Oiled: {
+				DisplayName: Oiled
+				Description: Taking more damage from being on fire
+			}
+
+			CursedIchor: {
+				DisplayName: Cursed Ichor
+				Description: Losing life
+			}
+
+			MilkBuff: {
+				DisplayName: Milky
+				Description: "'Mooooo'"
+			}
+
+			GooseKnifeBuff: {
+				DisplayName: Goose with a Knife
+				Description: "'QUAACKK!'"
+			}
+
+			CorruptedDebuff: {
+				DisplayName: Corrupted
+				Description: Bleeding in rapidly
+			}
+
+			BloodButcheredDebuff: {
+				DisplayName: Blood Butchered
+				Description: Bleeding out rapidly
+			}
+
+			BlueDemonBuff: {
+				DisplayName: Blue Demon
+				Description: Contact damage increased by 180%!
+			}
+
+			Shield_Sickness: {
+				DisplayName: Shield Sickness
+				Description: Contact damage reduced by 65%
+			}
+
+			GemmonedDebuff: {
+				DisplayName: Gemmoned
+				Description: You are frozen! Also rainbowy!
+			}
+
+			God_sPersecution: {
+				DisplayName: God's Persecution
+				Description: God has forsaken you
+			}
+		}
+
+		Tiles: {
+			LostFragmentOre.MapEntry: Lost Fragment
+			ConverterCraftingStationTile.MapEntry: Converter
+			GemAnvilTile.MapEntry: Gem Anvil
+		}
+
+		Dialogue: {
+			WalterWhite: {
+				PartyGirlDialogue: Say my name.
+				StandardDialogue1: Where is Jesse?
+				StandardDialogue2: I am the danger.
+				StandardDialogue3: Who the hell is kid named finger?
+				CommonDialogue: Gus had it coming to him.
+				RareDialogue: I did it for me. I liked it. I was good at it.
+				TalkALot: Jesse, we need to cook!
+			}
+		}
+
+		DamageClasses.ShieldClassDamage.DisplayName: contact damage
+
+		Projectiles: {
+			GemBossPetProjectile.DisplayName: Gem Boss Pet Projectile
+			OcramsEyeProjectile.DisplayName: Ocrams Eye Projectile
+			NothingProjectile.DisplayName: Nothing Projectile
+			CreeperProjectile.DisplayName: Creeper
+			MiniSkullProjectile.DisplayName: Mini Skull
+			VortexStar.DisplayName: Vortex Star
+			HeartedProjectile.DisplayName: Hearted
+			HellStoneShieldProjectile.DisplayName: Lava Shield
+			AppleProjectile.DisplayName: Apple
+			BananaProjectile.DisplayName: Banana
+			BlackcurrantProjectile.DisplayName: Black Currant
+			BloodOrangeProjectile.DisplayName: Blood Orange
+			CherryProjectile.DisplayName: Cherry
+			DragonFruitProjectile.DisplayName: Dragon Fruit
+			PineappleProjectile.DisplayName: Pineapple
+			ProbeWhipProjectile.DisplayName: Probe Whip
+			MechanicalHookProjectile.DisplayName: ${ProjectileName.GemHookAmethyst}
+			StarHookProjectile.DisplayName: ${ProjectileName.GemHookAmethyst}
+		}
+
+		NPCs: {
+			GemBoss.DisplayName: Gemmonide
+			MechBrain.DisplayName: Mechanical Brain
+			ServantOfMechanicalBrain.DisplayName: Mechanical Brain Cell
+			MCCreeper.DisplayName: Creeper
+			PVZConeHeadZombie.DisplayName: Conehead Zombie
+			SkyMimic.DisplayName: Sky Mimic
+		}
+	}
+}

@@ -1,0 +1,1167 @@
+Items: {
+	CultistSummon: {
+		DisplayName: Suspicious Looking Mask
+		Tooltip: Summons Lunatic Cultist
+	}
+
+	EOLSummon: {
+		DisplayName: Suspicious Looking Fairy
+		Tooltip: Summons the Empress of Light
+	}
+
+	PlanteraSummon: {
+		DisplayName: Suspicious Looking Plant
+		Tooltip: Summons Plantera
+	}
+
+	SkeletronSummon: {
+		DisplayName: Suspicious Looking Skull
+		Tooltip: Summons Skeletron
+	}
+
+	UnlimitedBoneArrow: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Bone Arrow
+	}
+
+	UnlimitedLuminiteBullet: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Luminite Bullet
+	}
+
+	UnlimitedJackOLantern: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Explosive Jack 'O Lantern
+	}
+
+	UnlimitedIchorBullet: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Ichor Bullet
+	}
+
+	UnlimitedHighVelocityBullet: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited High Velocity Bullet
+	}
+
+	UnlimitedGoldenBullet: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Golden Bullet
+	}
+
+	UnlimitedGel: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Gel
+	}
+
+	UnlimitedFlare: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Flare
+	}
+
+	UnlimitedExplodingBullet: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Exploding Bullet
+	}
+
+	UnlimitedCursedBullet: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Cursed Bullet
+	}
+
+	UnlimitedCrystalBullet: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Crystal Bullet
+	}
+
+	UnlimitedChlorophyteBullet: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Chlorophyte Bullet
+	}
+
+	UnlimitedCandyCorn: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Candy Corn
+	}
+
+	UnlimitedBlueFlare: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Blue Flare
+	}
+
+	UnlimitedWoodenArrow: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Wooden Arrow
+	}
+
+	UnlimitedVenomArrow: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Venom Arrow
+	}
+
+	UnlimitedLuminiteArrow: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Luminite Arrow
+	}
+
+	UnlimitedJestersArrow: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Jesters Arrow
+	}
+
+	UnlimitedIchorArrow: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Ichor Arrow
+	}
+
+	UnlimitedHUnholyArrow: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Unholy Arrow
+	}
+
+	UnlimitedHolyArrow: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Holy Arrow
+	}
+
+	UnlimitedHellFireArrow: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Hell Fire Arrow
+	}
+
+	UnlimitedFrostburnArrow: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Frostburn Arrow
+	}
+
+	UnlimitedFlamingArrow: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Flaming Arrow
+	}
+
+	UnlimitedCursedArrow: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Cursed Arrow
+	}
+
+	UnlimitedChlorophyteArrow: {
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+		DisplayName: Unlimited Chlorophyte Arrow
+	}
+
+	UnlimitedMeteorShot: {
+		DisplayName: Unlimited Meteor Shot
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedNail: {
+		DisplayName: Unlimited Nail
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedNanoBullet: {
+		DisplayName: Unlimited Nano Bullet
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedPartyBullet: {
+		DisplayName: Unlimited Party Bullet
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedSilverBullet: {
+		DisplayName: Unlimited Silver Bullet
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedStake: {
+		DisplayName: Unlimited Stake
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedStars: {
+		DisplayName: Unlimited Stars
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedTungstenBullet: {
+		DisplayName: Unlimited Tungsten Bullet
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedVenomBullet: {
+		DisplayName: Unlimited Venom Bullet
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedCrystalDart: {
+		DisplayName: Unlimited Crystal Dart
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedCursedDart: {
+		DisplayName: Unlimited Cursed Dart
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedIchorDart: {
+		DisplayName: Unlimited Ichor Dart
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedPoisonDart: {
+		DisplayName: Unlimited Poison Dart
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedClusterRocketI: {
+		DisplayName: Unlimited Cluster Rocket I
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedClusterRocketII: {
+		DisplayName: Unlimited Cluster Rocket II
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedDryRocket: {
+		DisplayName: Unlimited Dry Rocket
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedHoneyRocket: {
+		DisplayName: Unlimited Honey Rocket
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedLavaRocket: {
+		DisplayName: Unlimited Lava Rocket
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedMiniNukeI: {
+		DisplayName: Unlimited Mini Nuke I
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedMiniNukeII: {
+		DisplayName: Unlimited Mini Nuke II
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedRocketI: {
+		DisplayName: Unlimited Rocket I
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedRocketII: {
+		DisplayName: Unlimited Rocket II
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedRocketIII: {
+		DisplayName: Unlimited Rocket III
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedRocketIV: {
+		DisplayName: Unlimited Rocket IV
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedWetRocket: {
+		DisplayName: Unlimited Wet Rocket
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedBlueSolution: {
+		DisplayName: Unlimited Blue Solution
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedDarkBlueSolution: {
+		DisplayName: Unlimited Dark Blue Solution
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedGreenSolution: {
+		DisplayName: Unlimited Green Solution
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedPurpleSolution: {
+		DisplayName: Unlimited Purple Solution
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	UnlimitedRedSolution: {
+		DisplayName: Unlimited Red Solution
+		Tooltip: "[c/FFFF00:Is there a limit?]"
+	}
+
+	Gemminode: {
+		DisplayName: Gemminode
+		Tooltip: Summons Gemmy
+	}
+
+	GemmyMask: {
+		DisplayName: Gemmy Mask
+		Tooltip: ""
+	}
+
+	GemmyBossBag: {
+		DisplayName: Treasure Bag (Gemmy)
+		Tooltip: Right Click to open
+	}
+
+	GemmyRelic: {
+		DisplayName: Gemmy Relic
+		Tooltip: ""
+	}
+
+	GemmyTrophy: {
+		DisplayName: Gemmy Trophy
+		Tooltip: ""
+	}
+
+	GemmyPet: {
+		DisplayName: Gemmy's Heart
+		Tooltip:
+			'''
+			Summons a little Gemmy!
+			'Where is my dad?'
+			'''
+	}
+
+	GemmyGun: {
+		DisplayName: Gemmy's Shotgun
+		Tooltip:
+			'''
+			Shoots Gems
+			Depending of projectile damage, weapon shoots more gems, max capacity of 6
+			Has a low chance to duplicate the amount of gems you shoot!
+			'''
+	}
+
+	GemmyFireSpellBook: {
+		DisplayName: Gemmy's Book of Fire
+		Tooltip:
+			'''
+			Burns your enemies!
+			'Won't be able to attack them tho!'
+			'''
+	}
+
+	GemmyGemSpellBook: {
+		DisplayName: Gemmy's Book of Gems
+		Tooltip:
+			'''
+			Casts floating gems
+			Gems can penetrate enemies up to 10 times!
+			'''
+	}
+
+	UnlimitedAmmoReservationPotion: {
+		DisplayName: Unlimited Ammo Reservation Potion
+		Tooltip:
+			'''
+			Unconsumable
+			20% chance to save ammo
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedArcheryPotion: {
+		DisplayName: Unlimited Archery Potion
+		Tooltip:
+			'''
+			Unconsumable
+			10% increased bow damage and 20% increased arrow speed
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedBattlePotion: {
+		DisplayName: Unlimited Battle Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increased enemy spawn rate
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedBuilderPotion: {
+		DisplayName: Unlimited Builder Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increases placement speed and range
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedCalmingPotion: {
+		DisplayName: Unlimited Calming Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Decreases enemy spawn rate
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedDangersensePotion: {
+		DisplayName: Unlimited Dangersense Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Allows you to see nearby danger sources
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedFeatherfallPotion: {
+		DisplayName: Unlimited Featherfall Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Slows falling speed
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedFlipperPotion: {
+		DisplayName: Unlimited Flipper Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Lets you move swiftly in liquids
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedGillsPotion: {
+		DisplayName: Unlimited Gills Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Breathe water instead of air
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedGravitationPotion: {
+		DisplayName: Unlimited Gravitation Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Allows the control of gravity
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedHunterPotion: {
+		DisplayName: Unlimited Hunter Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Shows the location of enemies
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedInvisibilityPotion: {
+		DisplayName: Unlimited Invisibility Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Grants invisibility and lowers the spawn rate of enemies
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedIronSkinPotion: {
+		DisplayName: Unlimited Iron Skin Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increase defense by 8
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedMiningPotion: {
+		DisplayName: Unlimited Mining Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increases mining speed by 25%
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedNightOwlPotion: {
+		DisplayName: Unlimited Night Owl Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increases night vision
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedObsidianSkinPotion: {
+		DisplayName: Unlimited Obsidian Skin Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Provides immunity to lava
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedRedPotion: {
+		DisplayName: Unlimited Red Potion
+		Tooltip:
+			'''
+			Unconsumable
+			'Only for those who are worthy'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedShinePotion: {
+		DisplayName: Unlimited Shine Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Emits an aura of light
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedSpelunkerPotion: {
+		DisplayName: Unlimited Spelunker Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Shows the location of treasure and ore
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedSummoningPotion: {
+		DisplayName: Unlimited Summoning Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increases your max number of minions by 1
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedSwiftnessPotion: {
+		DisplayName: Unlimited Swiftness Potion
+		Tooltip:
+			'''
+			Unconsumable
+			25% increased movement speed
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedThornsPotion: {
+		DisplayName: Unlimited Thorns Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Attackers also take damage
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedTitanPotion: {
+		DisplayName: Unlimited Titan Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increases knockback
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedWaterWalkingPotion: {
+		DisplayName: Unlimited Water Walking Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Allows the ability to walk on water
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedFlaskofCursedFlames: {
+		DisplayName: Unlimited Flask of Cursed Flames
+		Tooltip:
+			'''
+			Unconsumable
+			Melee and Whip attacks inflict enemies with cursed flames
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedFlaskofFire: {
+		DisplayName: Unlimited Flask of Fire
+		Tooltip:
+			'''
+			Unconsumable
+			Melee and Whip attacks set enemies on fire
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedFlaskofGold: {
+		DisplayName: Unlimited Flask of Gold
+		Tooltip:
+			'''
+			Unconsumable
+			Melee and Whip attacks make enemies drop more gold
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedFlaskofIchor: {
+		DisplayName: Unlimited Flask of Ichor
+		Tooltip:
+			'''
+			Unconsumable
+			Melee and Whip attacks decrease enemies defense
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedFlaskofNanites: {
+		DisplayName: Unlimited Flask of Nanites
+		Tooltip:
+			'''
+			Unconsumable
+			Melee and Whip attacks confuse enemies
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedFlaskofParty: {
+		DisplayName: Unlimited Flask of Party
+		Tooltip:
+			'''
+			Unconsumable
+			Melee and Whip attacks cause confetti to appear
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedFlaskofPoison: {
+		DisplayName: Unlimited Flask of Poison
+		Tooltip:
+			'''
+			Unconsumable
+			Melee and Whip attacks poison enemies
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedFlaskofVenom: {
+		DisplayName: Unlimited Flask of Venom
+		Tooltip:
+			'''
+			Unconsumable
+			Melee and Whip attacks inflict Acid Venom on enemies
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedAle: {
+		DisplayName: Unlimited Ale
+		Tooltip:
+			'''
+			Unconsumable
+			Minor improvements to melee stats & lowered defense
+			'Down the hatch!'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedBananaSplit: {
+		DisplayName: Unlimited Banana Split
+		Tooltip:
+			'''
+			Unconsumable
+			Medium improvements to all stats
+			'Make like a banana and split!'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedBowlofSoup: {
+		DisplayName: Unlimited Bowlof Soup
+		Tooltip:
+			'''
+			Unconsumable
+			Medium improvements to all stats
+			'Simple, yet refreshing.'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedBunnyStew: {
+		DisplayName: Unlimited Bunny Stew
+		Tooltip:
+			'''
+			Unconsumable
+			Minor improvements to all stats
+			'This one's luck has run out.'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedChristmasPudding: {
+		DisplayName: Unlimited Christmas Pudding
+		Tooltip:
+			'''
+			Unconsumable
+			Major improvements to all stats
+			'A cozy treat by the fireplace.'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedCreamSoda: {
+		DisplayName: Unlimited Cream Soda
+		Tooltip:
+			'''
+			Unconsumable
+			Medium improvements to all stats
+			'It's so fizzy!'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedGrubSoup: {
+		DisplayName: Unlimited Grub Soup
+		Tooltip:
+			'''
+			Unconsumable
+			Medium improvements to all stats
+			'Grub's up!'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedIceCream: {
+		DisplayName: Unlimited Ice Cream
+		Tooltip:
+			'''
+			Unconsumable
+			Medium improvements to all stats
+			'Eat it before it melts!'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedMilkShake: {
+		DisplayName: Unlimited Milk Shake
+		Tooltip:
+			'''
+			Unconsumable
+			Major improvements to all stats
+			'It brings the boys to the yard!'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedPho: {
+		DisplayName: Unlimited Pho
+		Tooltip:
+			'''
+			Unconsumable
+			Medium improvements to all stats
+			'Pho sho...'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedSake: {
+		DisplayName: Unlimited Sake
+		Tooltip:
+			'''
+			Unconsumable
+			Minor improvements to melee stats & lowered defense
+			'Drink too much of this, and you become karate master.'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedHeartreachPotion: {
+		DisplayName: Unlimited Heartreach Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increases pickup range for life hearts
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedLifeforcePotion: {
+		DisplayName: Unlimited Lifeforce Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increases max life by 20%
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedRegenerationPotion: {
+		DisplayName: Unlimited Regeneration Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Provides life regeneration
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedMagicPowerPotion: {
+		DisplayName: Unlimited Magic Power Potion
+		Tooltip:
+			'''
+			Unconsumable
+			20% increased magic damage
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedManaRegenerationPotion: {
+		DisplayName: Unlimited Mana Regeneration Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increased mana regeneration
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedCratePotion: {
+		DisplayName: Unlimited Crate Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increases chance to get a crate
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedEndurancePotion: {
+		DisplayName: Unlimited Endurance Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Reduces damage taken by 10%
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedFishingPotion: {
+		DisplayName: Unlimited Fishing Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increases fishing power by 15
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedGreaterLuckPotion: {
+		DisplayName: Unlimited Greater Luck Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increases the Luck of the user
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedInfernoPotion: {
+		DisplayName: Unlimited Inferno Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Ignites nearby enemies
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedLesserLuckPotion: {
+		DisplayName: Unlimited Lesser Luck Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increases the Luck of the user
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedLuckPotion: {
+		DisplayName: Unlimited Luck Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increases the Luck of the user
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedRagePotion: {
+		DisplayName: Unlimited Rage Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increases critical chance by 10%
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedSonarPotion: {
+		DisplayName: Unlimited Sonar Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Detects hooked fish
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedWarmthPotion: {
+		DisplayName: Unlimited Warmth Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Reduces damage from cold sources
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedWrathPotion: {
+		DisplayName: Unlimited Wrath Potion
+		Tooltip:
+			'''
+			Unconsumable
+			Increases damage by 10%
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedAppleJuice: {
+		DisplayName: Unlimited Apple Juice
+		Tooltip:
+			'''
+			Unconsumable
+			Minor improvements to all stats
+			'Hungry for Apples?'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedBloodyMoscato: {
+		DisplayName: Unlimited Bloody Moscato
+		Tooltip:
+			'''
+			Unconsumable
+			Minor improvements to all stats
+			'Not really blood... or is it?'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedCartonofMilk: {
+		DisplayName: Unlimited Carton of Milk
+		Tooltip:
+			'''
+			Unconsumable
+			Minor improvements to all stats
+			'For strong, healthy bones'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedCoffee: {
+		DisplayName: Unlimited Coffee
+		Tooltip:
+			'''
+			Unconsumable
+			Medium improvements to all stats
+			'Hello darkness my old friend'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedFrozenBananaDaiquiri: {
+		DisplayName: Unlimited Frozen Banana Daiquiri
+		Tooltip:
+			'''
+			Unconsumable
+			Minor improvements to all stats
+			'Yellow and mellow'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedFruitJuice: {
+		DisplayName: Unlimited Fruit Juice
+		Tooltip:
+			'''
+			Unconsumable
+			Minor improvements to all stats
+			'With 5% real fruit juice!'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedGrapeJuice: {
+		DisplayName: Unlimited Grape Juice
+		Tooltip:
+			'''
+			Unconsumable
+			Major improvements to all stats
+			'Sugar. Water. Purple.'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedLemonade: {
+		DisplayName: Unlimited Lemonade
+		Tooltip:
+			'''
+			Unconsumable
+			Minor improvements to all stats
+			'...make lemonade!'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedPeachSangria: {
+		DisplayName: Unlimited Peach Sangria
+		Tooltip:
+			'''
+			Unconsumable
+			Minor improvements to all stats
+			'Life's a peach'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedPiñaColada: {
+		DisplayName: Unlimited Piña Colada
+		Tooltip:
+			'''
+			Unconsumable
+			Minor improvements to all stats
+			'If you like piña coladas and getting caught in the rain'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedPrismaticPunch: {
+		DisplayName: Unlimited Prismatic Punch
+		Tooltip:
+			'''
+			Unconsumable
+			Medium improvements to all stats
+			'Feel the rainbow, taste the crystal!'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedSmoothieofDarkness: {
+		DisplayName: Unlimited Smoothie of Darkness
+		Tooltip:
+			'''
+			Unconsumable
+			Minor improvements to all stats
+			'Come to the dark side, we have smoothies'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedTeacup: {
+		DisplayName: Unlimited Teacup
+		Tooltip:
+			'''
+			Unconsumable
+			Minor improvements to all stats
+			'A must-have for tea parties'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+
+	UnlimitedTropicalSmoothie: {
+		DisplayName: Unlimited Tropical Smoothie
+		Tooltip:
+			'''
+			Unconsumable
+			Minor improvements to all stats
+			'Real smooth'
+			[c/FFFF00:Can you drink it all?]
+			'''
+	}
+}
+
+Configs: {
+	DedsQOLConfig: {
+		DisplayName: Deds QOL Config
+
+		NpcAndProjDamageToggle: {
+			Tooltip: Amount of damage of Npc's and Projectiles are shown.
+			Label: Npc And Proj Damage Toggle
+		}
+
+		NpcAndProjDamageTextToggle: {
+			Label: Npc And Proj Damage Text Toggle
+			Tooltip: ""
+		}
+
+		PlayerLifeRegenerationTextToggle: {
+			Label: Player Life Regeneration Text Toggle
+			Tooltip: ""
+		}
+	}
+}
+
+NPCs: {
+	GemBoss: {
+		DisplayName: Gemmy
+		BossChecklistIntegration.SpawnInfo: Use [i:DedsQOLMod/Gemminode] at day or night to spawn.
+	}
+}
+
+Keybinds.Recall.DisplayName: Auto-Recall
+
+Buffs: {
+	GemmyPetBuff: {
+		DisplayName: Gemmy!
+		Description: How am I flying?
+	}
+}
+
+Projectiles: {
+	GemmyPetProjectile.DisplayName: Little Gemmy
+	Amber.DisplayName: Amber
+	Topaz.DisplayName: Topaz
+	Sapphire.DisplayName: Sapphire
+	Ruby.DisplayName: Ruby
+	Emerald.DisplayName: Emerald
+	Diamond.DisplayName: Diamond
+	Amethyst.DisplayName: Amethyst
+	CircleOfFire.DisplayName: Circle Of Fire
+}
