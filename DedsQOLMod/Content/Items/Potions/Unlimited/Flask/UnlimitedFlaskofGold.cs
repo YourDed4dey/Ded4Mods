@@ -15,7 +15,7 @@ namespace DedsQOLMod.Content.Items.Potions.Unlimited.Flask
             //DisplayName.SetDefault("Unlimited Flask of Gold");
             //Tooltip.SetDefault("Melee and Whip attacks make enemies drop more gold\n[c/FFFF00:How much can you drink?]");
 
-            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99;
+            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99; ItemID.Sets.ItemIconPulse[Item.type] = true;
         }
 
         public override void SetDefaults()

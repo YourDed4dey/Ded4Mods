@@ -15,7 +15,7 @@ namespace DedsQOLMod.Content.Items.Potions.Unlimited.Flask
             //DisplayName.SetDefault("Unlimited Flask of Nanites");
             //Tooltip.SetDefault("Melee and Whip attacks confuse enemies\n[c/FFFF00:How much can you drink?]");
 
-            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99;
+            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99; ItemID.Sets.ItemIconPulse[Item.type] = true;
         }
 
         public override void SetDefaults()

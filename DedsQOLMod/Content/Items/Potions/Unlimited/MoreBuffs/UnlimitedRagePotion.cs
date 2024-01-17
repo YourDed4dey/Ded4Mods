@@ -15,7 +15,7 @@ namespace DedsQOLMod.Content.Items.Potions.Unlimited.MoreBuffs
             //DisplayName.SetDefault("Unlimited Rage Potion");
             //Tooltip.SetDefault("Increases critical chance by 10%\n[c/FFFF00:How much can you drink?]");
 
-            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99;
+            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99; ItemID.Sets.ItemIconPulse[Item.type] = true;
         }
 
         public override void SetDefaults()

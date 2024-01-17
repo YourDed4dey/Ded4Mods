@@ -15,7 +15,7 @@ namespace DedsQOLMod.Content.Items.Potions.Unlimited.Buffs
             //DisplayName.SetDefault("Unlimited Calming Potion");
             //Tooltip.SetDefault("Decreases enemy spawn rate\n[c/FFFF00:How much can you drink?]");
 
-            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99;
+            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99; ItemID.Sets.ItemIconPulse[Item.type] = true;
         }
 
         public override void SetDefaults()

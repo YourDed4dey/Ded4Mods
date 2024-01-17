@@ -15,7 +15,7 @@ namespace DedsQOLMod.Content.Items.Potions.Unlimited.Food
             //DisplayName.SetDefault("Unlimited Sake");
             //Tooltip.SetDefault("Minor improvements to melee stats & lowered defense\n'Drink too much of this, and you become karate master.'\n[c/FFFF00:How much can you drink?]");
 
-            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99;
+            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99; ItemID.Sets.ItemIconPulse[Item.type] = true;
         }
 
         public override void SetDefaults()

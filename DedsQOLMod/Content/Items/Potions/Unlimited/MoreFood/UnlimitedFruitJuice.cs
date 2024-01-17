@@ -14,7 +14,7 @@ namespace DedsQOLMod.Content.Items.Potions.Unlimited.MoreFood
             //DisplayName.SetDefault("Unlimited Fruit Juice");
             //Tooltip.SetDefault("Minor improvements to all stats\n'With %5 real fruit juice!'\n[c/FFFF00:How much can you drink?]");
 
-            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99;
+            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99; ItemID.Sets.ItemIconPulse[Item.type] = true;
         }
 
         public override void SetDefaults()

@@ -14,7 +14,7 @@ namespace DedsQOLMod.Content.Items.Potions.Unlimited.MoreFood
             //DisplayName.SetDefault("Unlimited Teacup");
             //Tooltip.SetDefault("Minor improvements to all stats\n'A must-have for tea parties'\n[c/FFFF00:How much can you drink?]");
 
-            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99;
+            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99; ItemID.Sets.ItemIconPulse[Item.type] = true;
         }
 
         public override void SetDefaults()

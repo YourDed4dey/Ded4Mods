@@ -14,7 +14,7 @@ namespace DedsQOLMod.Content.Items.Potions.Unlimited.Food
             //DisplayName.SetDefault("Unlimited Christmas Pudding");
             //Tooltip.SetDefault("Major improvements to all stats\n'A cozy treat by the fireplace.'\n[c/FFFF00:How much can you drink?]");
 
-            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99;
+            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99; ItemID.Sets.ItemIconPulse[Item.type] = true;
         }
 
         public override void SetDefaults()

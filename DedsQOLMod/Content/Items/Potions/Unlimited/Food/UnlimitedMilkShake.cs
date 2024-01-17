@@ -14,7 +14,7 @@ namespace DedsQOLMod.Content.Items.Potions.Unlimited.Food
             //DisplayName.SetDefault("Unlimited Milkshake");
             //Tooltip.SetDefault("Major improvements to all stats\n'It brings the boys to the yard!'\n[c/FFFF00:How much can you drink?]");
 
-            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99;
+            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 99; ItemID.Sets.ItemIconPulse[Item.type] = true;
         }
 
         public override void SetDefaults()
