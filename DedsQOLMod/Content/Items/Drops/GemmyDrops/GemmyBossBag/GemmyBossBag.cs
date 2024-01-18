@@ -32,7 +32,7 @@ namespace DedsQOLMod.Content.Items.Drops.GemmyDrops.GemmyBossBag
             Item.maxStack = Item.CommonMaxStack;
             Item.consumable = true;
             Item.width = 32;
-            Item.height = 37;
+            Item.height = 36;
             Item.rare = ItemRarityID.Purple;
             Item.expert = true; // This makes sure that "Expert" displays in the tooltip and the item name color changes
         }

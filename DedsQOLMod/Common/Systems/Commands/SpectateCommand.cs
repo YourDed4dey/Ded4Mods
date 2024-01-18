@@ -87,7 +87,7 @@ namespace DedsQOLMod.Common.Systems.Commands
                     // Set the camera position to follow the alive player being spectated
                     SpectateCameraPosition = targetPlayer.Center - new Vector2(Main.screenWidth / 2, Main.screenHeight / 2);
                 }
-                /*else
+                else
                 {
                     // Stop spectating if the target player is no longer valid (dead)
                     IsSpectating = false;
@@ -95,7 +95,7 @@ namespace DedsQOLMod.Common.Systems.Commands
 
                     // Send a message to the player informing them that the target player is no longer available for spectating
                     Main.NewText("The player you were spectating is no longer available.", Color.Red);
-                }*/
+                }
             }
         }
 
