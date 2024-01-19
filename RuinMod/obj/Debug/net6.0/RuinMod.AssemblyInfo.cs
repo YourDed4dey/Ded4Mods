@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RuinMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2367fbd0c0f329b9a9a3ac02630c290d3cae1bce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22ad95400ddcb528797ac2e2c12473b87fff89f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("RuinMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RuinMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

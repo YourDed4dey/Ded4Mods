@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DedsQOLMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6237655cb4f7cbac8053de6c68063fec5a94c84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22ad95400ddcb528797ac2e2c12473b87fff89f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DedsQOLMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DedsQOLMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

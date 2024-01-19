@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Common\Systems\UI\" />
+    <Folder Include="Content\Test\" />
     <Folder Include="Content\Weapons\MageClass\Hardmode\" />
     <Folder Include="Content\Weapons\MageClass\PostML\" />
     <Folder Include="Content\Weapons\MeleeClass\Hardmode\" />

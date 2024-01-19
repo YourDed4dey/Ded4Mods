@@ -121,7 +121,7 @@ namespace DedsBosses.Content.Projectiles.ProjectilesAllClasses.LifetakerClass.Le
 
             if (critChance)
             {
-                player. += 10;
+                //player. += 10;
             }
         }
     }
