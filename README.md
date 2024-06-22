@@ -11,7 +11,7 @@ To install any mods, please go to steam and search up the mods for its specific 
 This GitHub repository contains the source code and sprites for my mods. While you are welcome to explore and learn from the code, please refrain from directly copying any sprites or code for use in other projects without explicit permission.
 
 ## Acknowledgements
-All of the sprites for my mods were made using "Pixelorama"! ❤️
+All of the sprites for my mods were made using ,"Pixelorama", and "PixilArt"! ❤️
 
 ## Contact
 For support, bug reports, or other inquiries, you can contact me trough discord: [https://discord.gg/r5Ca5Bhtay]
